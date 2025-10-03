@@ -81,7 +81,7 @@ html, body {
 /* 漢字表示エリア（巨大角丸正方形） */
 .kanji-square {
   position: absolute;
-  top: 5vh;
+  top: 8vh;
   left: 50%;
   transform: translateX(-50%);
   width: 90vw;
@@ -169,13 +169,13 @@ html, body {
 /* ボタンエリア（横長） - 角丸正方形下辺とノーツレーンの間 */
 .button-area {
   position: absolute;
-  top: calc(5vh + 90vw + 4vh);
+  top: calc(8vh + 90vw + 2vh);
   left: 50%;
   transform: translateX(-50%);
   display: none; /* デフォルト非表示 */
   width: 80vw;
-  height: calc(100vh - 5vh - 90vw - 8vh);
-  max-height: calc(80vh - 5vh - 90vw - 8vh);
+  height: calc(100vh - 8vh - 90vw - 4vh);
+  max-height: calc(80vh - 8vh - 90vw - 4vh);
   z-index: 5;
 }
 
