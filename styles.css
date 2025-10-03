@@ -290,8 +290,8 @@ html, body {
   top: 50%;
   left: 100%;
   transform: translateY(-50%);
-  width: 10vh;
-  height: 10vh;
+  width: 15vh;
+  height: 15vh;
   background: radial-gradient(circle, #00FFFF 0%, #0088FF  50%, #004488 100%);
   border-radius: 50%;
   border: 3px solid #00FFFF;
