@@ -1,17 +1,6 @@
-var CACHE_NAME = 'KNJ-v1';
+var CACHE_NAME = 'KNJ';
 var urlsToCache = [
-    './',
-    './index.html',
-    './styles.css',
-    './main.js',
-    './kanji.json',
-    './PWAimage/slime192.png',
-    './PWAimage/slime512.png',
-    './correct.mp3',
-    './error.mp3',
-    './hit.mp3',
-    './option.mp3',
-    './pro.mp3'
+    '/', '/index.html', './PWAimage/slime192.png', './PWAimage/slime512.png'
 ];
 
 // インストール処理
@@ -25,28 +14,33 @@ self.addEventListener('install', function(event) {
     );
 });
 
-// アクティベート処理
-self.addEventListener('activate', function(event) {
-    event.waitUntil(
-        caches.keys().then(function(cacheNames) {
-            return Promise.all(
-                cacheNames.map(function(cacheName) {
-                    if (cacheName !== CACHE_NAME) {
-                        return caches.delete(cacheName);
-                    }
-                })
-            );
-        })
-    );
-});
-
 // リソースフェッチ時のキャッシュロード処理
 self.addEventListener('fetch', function(event) {
-    event.respondWith(
-        caches
-            .match(event.request)
-            .then(function(response) {
-                return response || fetch(event.request);
+    // Google Fonts のリクエストを検出
+    if (event.request.url.indexOf('fonts.googleapis.com') !== -1 || 
+        event.request.url.indexOf('fonts.gstatic.com') !== -1) {
+        event.respondWith(
+            caches.open('fonts-cache').then(function(cache) {
+                return cache.match(event.request).then(function(response) {
+                    if (response) {
+                        return response;
+                    }
+                    return fetch(event.request).then(function(response) {
+                        if (response.status === 200) {
+                            cache.put(event.request, response.clone());
+                        }
+                        return response;
+                    });
+                });
             })
-    );
+        );
+    } else {
+        event.respondWith(
+            caches
+                .match(event.request)
+                .then(function(response) {
+                    return response || fetch(event.request);
+                })
+        );
+    }
 });
