@@ -180,7 +180,7 @@ function showChoices() {
     });
   }
   
-  // 正解を基準とした3パターンからランダム選択
+  // 正解を基準とした3パターンからランダム選択（必ず10以上）
   const patterns = [
     { min: correctAnswer - 2, max: correctAnswer },     // n-2, n-1, n
     { min: correctAnswer - 1, max: correctAnswer + 1 },  // n-1, n, n+1
@@ -190,8 +190,8 @@ function showChoices() {
   const pattern = patterns[Math.floor(Math.random() * patterns.length)];
   const options = [];
   
-  // 最小値が1未満の場合は調整
-  const actualMin = Math.max(1, pattern.min);
+  // 最小値が10未満の場合は10に調整
+  const actualMin = Math.max(10, pattern.min);
   const actualMax = pattern.max + (pattern.min - actualMin); // 差を調整
   
   // 連続した3つの数字を生成

@@ -5043,15 +5043,9425 @@
     }
     ],
   "hardKanji": [
-    { "kanji": "鬱", "strokes": 29 },
-    { "kanji": "鑑", "strokes": 23 },
-    { "kanji": "響", "strokes": 20 },
-    { "kanji": "騎", "strokes": 18 },
-    { "kanji": "館", "strokes": 16 },
-    { "kanji": "選", "strokes": 15 },
-    { "kanji": "検", "strokes": 12 },
-    { "kanji": "統", "strokes": 12 },
-    { "kanji": "経", "strokes": 11 },
-    { "kanji": "級", "strokes": 9 }
-  ]
+    {
+      "kanji": "乘",
+      "strokes": 10
+    },
+    {
+      "kanji": "亂",
+      "strokes": 13
+    },
+    {
+      "kanji": "豫",
+      "strokes": 16
+    },
+    {
+      "kanji": "舒",
+      "strokes": 12
+    },
+    {
+      "kanji": "亳",
+      "strokes": 10
+    },
+    {
+      "kanji": "亶",
+      "strokes": 13
+    },
+    {
+      "kanji": "儘",
+      "strokes": 16
+    },
+    {
+      "kanji": "倚",
+      "strokes": 10
+    },
+    {
+      "kanji": "倨",
+      "strokes": 10
+    },
+    {
+      "kanji": "倔",
+      "strokes": 10
+    },
+    {
+      "kanji": "倪",
+      "strokes": 10
+    },
+    {
+      "kanji": "倥",
+      "strokes": 10
+    },
+    {
+      "kanji": "倅",
+      "strokes": 10
+    },
+    {
+      "kanji": "俶",
+      "strokes": 10
+    },
+    {
+      "kanji": "倡",
+      "strokes": 10
+    },
+    {
+      "kanji": "倩",
+      "strokes": 10
+    },
+    {
+      "kanji": "倬",
+      "strokes": 10
+    },
+    {
+      "kanji": "俾",
+      "strokes": 10
+    },
+    {
+      "kanji": "俯",
+      "strokes": 10
+    },
+    {
+      "kanji": "們",
+      "strokes": 10
+    },
+    {
+      "kanji": "倆",
+      "strokes": 10
+    },
+    {
+      "kanji": "偃",
+      "strokes": 11
+    },
+    {
+      "kanji": "假",
+      "strokes": 11
+    },
+    {
+      "kanji": "會",
+      "strokes": 13
+    },
+    {
+      "kanji": "偕",
+      "strokes": 11
+    },
+    {
+      "kanji": "偐",
+      "strokes": 11
+    },
+    {
+      "kanji": "偈",
+      "strokes": 11
+    },
+    {
+      "kanji": "做",
+      "strokes": 11
+    },
+    {
+      "kanji": "偖",
+      "strokes": 11
+    },
+    {
+      "kanji": "偬",
+      "strokes": 11
+    },
+    {
+      "kanji": "偸",
+      "strokes": 11
+    },
+    {
+      "kanji": "傀",
+      "strokes": 12
+    },
+    {
+      "kanji": "傚",
+      "strokes": 12
+    },
+    {
+      "kanji": "傅",
+      "strokes": 12
+    },
+    {
+      "kanji": "傴",
+      "strokes": 13
+    },
+    {
+      "kanji": "傲",
+      "strokes": 13
+    },
+    {
+      "kanji": "僉",
+      "strokes": 13
+    },
+    {
+      "kanji": "僊",
+      "strokes": 13
+    },
+    {
+      "kanji": "傳",
+      "strokes": 13
+    },
+    {
+      "kanji": "僂",
+      "strokes": 13
+    },
+    {
+      "kanji": "僖",
+      "strokes": 14
+    },
+    {
+      "kanji": "僞",
+      "strokes": 14
+    },
+    {
+      "kanji": "僥",
+      "strokes": 14
+    },
+    {
+      "kanji": "僭",
+      "strokes": 14
+    },
+    {
+      "kanji": "僣",
+      "strokes": 14
+    },
+    {
+      "kanji": "僮",
+      "strokes": 14
+    },
+    {
+      "kanji": "價",
+      "strokes": 15
+    },
+    {
+      "kanji": "僵",
+      "strokes": 15
+    },
+    {
+      "kanji": "儉",
+      "strokes": 15
+    },
+    {
+      "kanji": "儁",
+      "strokes": 14
+    },
+    {
+      "kanji": "儂",
+      "strokes": 15
+    },
+    {
+      "kanji": "儖",
+      "strokes": 17
+    },
+    {
+      "kanji": "儕",
+      "strokes": 16
+    },
+    {
+      "kanji": "儔",
+      "strokes": 16
+    },
+    {
+      "kanji": "儚",
+      "strokes": 15
+    },
+    {
+      "kanji": "儡",
+      "strokes": 17
+    },
+    {
+      "kanji": "儺",
+      "strokes": 21
+    },
+    {
+      "kanji": "儷",
+      "strokes": 21
+    },
+    {
+      "kanji": "儼",
+      "strokes": 22
+    },
+    {
+      "kanji": "儻",
+      "strokes": 22
+    },
+    {
+      "kanji": "兢",
+      "strokes": 14
+    },
+    {
+      "kanji": "竸",
+      "strokes": 22
+    },
+    {
+      "kanji": "冀",
+      "strokes": 16
+    },
+    {
+      "kanji": "冓",
+      "strokes": 10
+    },
+    {
+      "kanji": "冕",
+      "strokes": 11
+    },
+    {
+      "kanji": "冤",
+      "strokes": 10
+    },
+    {
+      "kanji": "冦",
+      "strokes": 10
+    },
+    {
+      "kanji": "冢",
+      "strokes": 10
+    },
+    {
+      "kanji": "冩",
+      "strokes": 14
+    },
+    {
+      "kanji": "冪",
+      "strokes": 15
+    },
+    {
+      "kanji": "凅",
+      "strokes": 10
+    },
+    {
+      "kanji": "凉",
+      "strokes": 10
+    },
+    {
+      "kanji": "凛",
+      "strokes": 15
+    },
+    {
+      "kanji": "處",
+      "strokes": 11
+    },
+    {
+      "kanji": "凰",
+      "strokes": 11
+    },
+    {
+      "kanji": "剞",
+      "strokes": 10
+    },
+    {
+      "kanji": "剔",
+      "strokes": 10
+    },
+    {
+      "kanji": "剪",
+      "strokes": 11
+    },
+    {
+      "kanji": "剴",
+      "strokes": 12
+    },
+    {
+      "kanji": "剩",
+      "strokes": 12
+    },
+    {
+      "kanji": "剳",
+      "strokes": 11
+    },
+    {
+      "kanji": "剿",
+      "strokes": 13
+    },
+    {
+      "kanji": "剽",
+      "strokes": 13
+    },
+    {
+      "kanji": "劍",
+      "strokes": 15
+    },
+    {
+      "kanji": "劔",
+      "strokes": 16
+    },
+    {
+      "kanji": "劒",
+      "strokes": 16
+    },
+    {
+      "kanji": "剱",
+      "strokes": 11
+    },
+    {
+      "kanji": "劈",
+      "strokes": 15
+    },
+    {
+      "kanji": "劑",
+      "strokes": 16
+    },
+    {
+      "kanji": "辨",
+      "strokes": 16
+    },
+    {
+      "kanji": "辧",
+      "strokes": 16
+    },
+    {
+      "kanji": "勍",
+      "strokes": 10
+    },
+    {
+      "kanji": "勗",
+      "strokes": 11
+    },
+    {
+      "kanji": "勞",
+      "strokes": 12
+    },
+    {
+      "kanji": "勣",
+      "strokes": 13
+    },
+    {
+      "kanji": "勦",
+      "strokes": 13
+    },
+    {
+      "kanji": "飭",
+      "strokes": 13
+    },
+    {
+      "kanji": "勠",
+      "strokes": 13
+    },
+    {
+      "kanji": "勳",
+      "strokes": 16
+    },
+    {
+      "kanji": "勵",
+      "strokes": 16
+    },
+    {
+      "kanji": "勸",
+      "strokes": 19
+    },
+    {
+      "kanji": "匐",
+      "strokes": 11
+    },
+    {
+      "kanji": "匏",
+      "strokes": 11
+    },
+    {
+      "kanji": "匯",
+      "strokes": 13
+    },
+    {
+      "kanji": "匱",
+      "strokes": 14
+    },
+    {
+      "kanji": "匳",
+      "strokes": 15
+    },
+    {
+      "kanji": "區",
+      "strokes": 11
+    },
+    {
+      "kanji": "凖",
+      "strokes": 12
+    },
+    {
+      "kanji": "厠",
+      "strokes": 11
+    },
+    {
+      "kanji": "厦",
+      "strokes": 12
+    },
+    {
+      "kanji": "厥",
+      "strokes": 12
+    },
+    {
+      "kanji": "厮",
+      "strokes": 14
+    },
+    {
+      "kanji": "厰",
+      "strokes": 14
+    },
+    {
+      "kanji": "參",
+      "strokes": 11
+    },
+    {
+      "kanji": "簒",
+      "strokes": 17
+    },
+    {
+      "kanji": "雙",
+      "strokes": 18
+    },
+    {
+      "kanji": "叟",
+      "strokes": 10
+    },
+    {
+      "kanji": "曼",
+      "strokes": 11
+    },
+    {
+      "kanji": "燮",
+      "strokes": 17
+    },
+    {
+      "kanji": "哥",
+      "strokes": 10
+    },
+    {
+      "kanji": "哦",
+      "strokes": 10
+    },
+    {
+      "kanji": "唏",
+      "strokes": 10
+    },
+    {
+      "kanji": "唔",
+      "strokes": 10
+    },
+    {
+      "kanji": "哽",
+      "strokes": 10
+    },
+    {
+      "kanji": "哮",
+      "strokes": 10
+    },
+    {
+      "kanji": "哭",
+      "strokes": 10
+    },
+    {
+      "kanji": "哺",
+      "strokes": 10
+    },
+    {
+      "kanji": "哢",
+      "strokes": 10
+    },
+    {
+      "kanji": "唹",
+      "strokes": 11
+    },
+    {
+      "kanji": "啀",
+      "strokes": 11
+    },
+    {
+      "kanji": "啣",
+      "strokes": 12
+    },
+    {
+      "kanji": "啌",
+      "strokes": 11
+    },
+    {
+      "kanji": "售",
+      "strokes": 11
+    },
+    {
+      "kanji": "啜",
+      "strokes": 11
+    },
+    {
+      "kanji": "啅",
+      "strokes": 11
+    },
+    {
+      "kanji": "啖",
+      "strokes": 11
+    },
+    {
+      "kanji": "啗",
+      "strokes": 11
+    },
+    {
+      "kanji": "唸",
+      "strokes": 11
+    },
+    {
+      "kanji": "唳",
+      "strokes": 10
+    },
+    {
+      "kanji": "啝",
+      "strokes": 11
+    },
+    {
+      "kanji": "喙",
+      "strokes": 12
+    },
+    {
+      "kanji": "喀",
+      "strokes": 12
+    },
+    {
+      "kanji": "喊",
+      "strokes": 12
+    },
+    {
+      "kanji": "喟",
+      "strokes": 12
+    },
+    {
+      "kanji": "啻",
+      "strokes": 12
+    },
+    {
+      "kanji": "啾",
+      "strokes": 12
+    },
+    {
+      "kanji": "喘",
+      "strokes": 12
+    },
+    {
+      "kanji": "喞",
+      "strokes": 12
+    },
+    {
+      "kanji": "單",
+      "strokes": 12
+    },
+    {
+      "kanji": "啼",
+      "strokes": 12
+    },
+    {
+      "kanji": "喃",
+      "strokes": 12
+    },
+    {
+      "kanji": "喩",
+      "strokes": 12
+    },
+    {
+      "kanji": "喇",
+      "strokes": 12
+    },
+    {
+      "kanji": "喨",
+      "strokes": 12
+    },
+    {
+      "kanji": "嗚",
+      "strokes": 13
+    },
+    {
+      "kanji": "嗅",
+      "strokes": 13
+    },
+    {
+      "kanji": "嗟",
+      "strokes": 13
+    },
+    {
+      "kanji": "嗄",
+      "strokes": 13
+    },
+    {
+      "kanji": "嗜",
+      "strokes": 13
+    },
+    {
+      "kanji": "嗤",
+      "strokes": 13
+    },
+    {
+      "kanji": "嗔",
+      "strokes": 13
+    },
+    {
+      "kanji": "嘔",
+      "strokes": 14
+    },
+    {
+      "kanji": "嗷",
+      "strokes": 14
+    },
+    {
+      "kanji": "嘖",
+      "strokes": 14
+    },
+    {
+      "kanji": "嗾",
+      "strokes": 14
+    },
+    {
+      "kanji": "嗽",
+      "strokes": 14
+    },
+    {
+      "kanji": "嘛",
+      "strokes": 14
+    },
+    {
+      "kanji": "嗹",
+      "strokes": 14
+    },
+    {
+      "kanji": "噎",
+      "strokes": 15
+    },
+    {
+      "kanji": "噐",
+      "strokes": 15
+    },
+    {
+      "kanji": "營",
+      "strokes": 17
+    },
+    {
+      "kanji": "嘴",
+      "strokes": 16
+    },
+    {
+      "kanji": "嘶",
+      "strokes": 15
+    },
+    {
+      "kanji": "嘲",
+      "strokes": 15
+    },
+    {
+      "kanji": "嘸",
+      "strokes": 15
+    },
+    {
+      "kanji": "噫",
+      "strokes": 16
+    },
+    {
+      "kanji": "噤",
+      "strokes": 16
+    },
+    {
+      "kanji": "嘯",
+      "strokes": 16
+    },
+    {
+      "kanji": "噬",
+      "strokes": 16
+    },
+    {
+      "kanji": "噪",
+      "strokes": 16
+    },
+    {
+      "kanji": "嚆",
+      "strokes": 16
+    },
+    {
+      "kanji": "嚀",
+      "strokes": 17
+    },
+    {
+      "kanji": "嚊",
+      "strokes": 17
+    },
+    {
+      "kanji": "嚠",
+      "strokes": 18
+    },
+    {
+      "kanji": "嚔",
+      "strokes": 17
+    },
+    {
+      "kanji": "嚏",
+      "strokes": 17
+    },
+    {
+      "kanji": "嚥",
+      "strokes": 19
+    },
+    {
+      "kanji": "嚮",
+      "strokes": 19
+    },
+    {
+      "kanji": "嚶",
+      "strokes": 20
+    },
+    {
+      "kanji": "嚴",
+      "strokes": 20
+    },
+    {
+      "kanji": "囂",
+      "strokes": 21
+    },
+    {
+      "kanji": "嚼",
+      "strokes": 21
+    },
+    {
+      "kanji": "囁",
+      "strokes": 21
+    },
+    {
+      "kanji": "囃",
+      "strokes": 21
+    },
+    {
+      "kanji": "囀",
+      "strokes": 21
+    },
+    {
+      "kanji": "囈",
+      "strokes": 21
+    },
+    {
+      "kanji": "囎",
+      "strokes": 22
+    },
+    {
+      "kanji": "囑",
+      "strokes": 24
+    },
+    {
+      "kanji": "囓",
+      "strokes": 24
+    },
+    {
+      "kanji": "圄",
+      "strokes": 10
+    },
+    {
+      "kanji": "圉",
+      "strokes": 11
+    },
+    {
+      "kanji": "圈",
+      "strokes": 11
+    },
+    {
+      "kanji": "國",
+      "strokes": 11
+    },
+    {
+      "kanji": "圍",
+      "strokes": 13
+    },
+    {
+      "kanji": "圓",
+      "strokes": 13
+    },
+    {
+      "kanji": "團",
+      "strokes": 14
+    },
+    {
+      "kanji": "圖",
+      "strokes": 14
+    },
+    {
+      "kanji": "嗇",
+      "strokes": 13
+    },
+    {
+      "kanji": "圜",
+      "strokes": 16
+    },
+    {
+      "kanji": "埀",
+      "strokes": 10
+    },
+    {
+      "kanji": "埃",
+      "strokes": 10
+    },
+    {
+      "kanji": "埆",
+      "strokes": 10
+    },
+    {
+      "kanji": "埔",
+      "strokes": 10
+    },
+    {
+      "kanji": "埒",
+      "strokes": 10
+    },
+    {
+      "kanji": "埓",
+      "strokes": 10
+    },
+    {
+      "kanji": "堊",
+      "strokes": 11
+    },
+    {
+      "kanji": "埖",
+      "strokes": 10
+    },
+    {
+      "kanji": "埣",
+      "strokes": 11
+    },
+    {
+      "kanji": "堋",
+      "strokes": 11
+    },
+    {
+      "kanji": "堙",
+      "strokes": 12
+    },
+    {
+      "kanji": "堝",
+      "strokes": 12
+    },
+    {
+      "kanji": "塲",
+      "strokes": 14
+    },
+    {
+      "kanji": "堡",
+      "strokes": 12
+    },
+    {
+      "kanji": "塢",
+      "strokes": 13
+    },
+    {
+      "kanji": "塋",
+      "strokes": 13
+    },
+    {
+      "kanji": "塰",
+      "strokes": 13
+    },
+    {
+      "kanji": "毀",
+      "strokes": 13
+    },
+    {
+      "kanji": "塒",
+      "strokes": 13
+    },
+    {
+      "kanji": "堽",
+      "strokes": 12
+    },
+    {
+      "kanji": "塹",
+      "strokes": 14
+    },
+    {
+      "kanji": "墅",
+      "strokes": 14
+    },
+    {
+      "kanji": "墹",
+      "strokes": 15
+    },
+    {
+      "kanji": "墟",
+      "strokes": 15
+    },
+    {
+      "kanji": "墫",
+      "strokes": 15
+    },
+    {
+      "kanji": "墺",
+      "strokes": 16
+    },
+    {
+      "kanji": "壞",
+      "strokes": 19
+    },
+    {
+      "kanji": "墻",
+      "strokes": 16
+    },
+    {
+      "kanji": "墸",
+      "strokes": 15
+    },
+    {
+      "kanji": "墮",
+      "strokes": 15
+    },
+    {
+      "kanji": "壅",
+      "strokes": 16
+    },
+    {
+      "kanji": "壓",
+      "strokes": 17
+    },
+    {
+      "kanji": "壑",
+      "strokes": 17
+    },
+    {
+      "kanji": "壗",
+      "strokes": 17
+    },
+    {
+      "kanji": "壙",
+      "strokes": 18
+    },
+    {
+      "kanji": "壘",
+      "strokes": 18
+    },
+    {
+      "kanji": "壥",
+      "strokes": 20
+    },
+    {
+      "kanji": "壜",
+      "strokes": 19
+    },
+    {
+      "kanji": "壤",
+      "strokes": 20
+    },
+    {
+      "kanji": "壟",
+      "strokes": 19
+    },
+    {
+      "kanji": "壺",
+      "strokes": 12
+    },
+    {
+      "kanji": "壹",
+      "strokes": 12
+    },
+    {
+      "kanji": "壻",
+      "strokes": 12
+    },
+    {
+      "kanji": "壼",
+      "strokes": 13
+    },
+    {
+      "kanji": "壽",
+      "strokes": 14
+    },
+    {
+      "kanji": "夐",
+      "strokes": 14
+    },
+    {
+      "kanji": "梦",
+      "strokes": 11
+    },
+    {
+      "kanji": "夥",
+      "strokes": 14
+    },
+    {
+      "kanji": "奚",
+      "strokes": 10
+    },
+    {
+      "kanji": "奘",
+      "strokes": 10
+    },
+    {
+      "kanji": "奢",
+      "strokes": 12
+    },
+    {
+      "kanji": "奠",
+      "strokes": 12
+    },
+    {
+      "kanji": "奧",
+      "strokes": 13
+    },
+    {
+      "kanji": "奬",
+      "strokes": 14
+    },
+    {
+      "kanji": "奩",
+      "strokes": 14
+    },
+    {
+      "kanji": "娥",
+      "strokes": 10
+    },
+    {
+      "kanji": "娟",
+      "strokes": 10
+    },
+    {
+      "kanji": "娑",
+      "strokes": 10
+    },
+    {
+      "kanji": "娜",
+      "strokes": 10
+    },
+    {
+      "kanji": "娉",
+      "strokes": 10
+    },
+    {
+      "kanji": "娚",
+      "strokes": 10
+    },
+    {
+      "kanji": "婀",
+      "strokes": 11
+    },
+    {
+      "kanji": "婬",
+      "strokes": 11
+    },
+    {
+      "kanji": "婉",
+      "strokes": 11
+    },
+    {
+      "kanji": "娵",
+      "strokes": 11
+    },
+    {
+      "kanji": "娶",
+      "strokes": 11
+    },
+    {
+      "kanji": "婢",
+      "strokes": 11
+    },
+    {
+      "kanji": "婪",
+      "strokes": 11
+    },
+    {
+      "kanji": "媚",
+      "strokes": 12
+    },
+    {
+      "kanji": "媼",
+      "strokes": 13
+    },
+    {
+      "kanji": "媾",
+      "strokes": 13
+    },
+    {
+      "kanji": "嫋",
+      "strokes": 13
+    },
+    {
+      "kanji": "嫂",
+      "strokes": 13
+    },
+    {
+      "kanji": "媽",
+      "strokes": 13
+    },
+    {
+      "kanji": "嫣",
+      "strokes": 14
+    },
+    {
+      "kanji": "嫗",
+      "strokes": 14
+    },
+    {
+      "kanji": "嫦",
+      "strokes": 14
+    },
+    {
+      "kanji": "嫩",
+      "strokes": 14
+    },
+    {
+      "kanji": "嫖",
+      "strokes": 14
+    },
+    {
+      "kanji": "嫺",
+      "strokes": 15
+    },
+    {
+      "kanji": "嫻",
+      "strokes": 15
+    },
+    {
+      "kanji": "嬌",
+      "strokes": 15
+    },
+    {
+      "kanji": "嬋",
+      "strokes": 15
+    },
+    {
+      "kanji": "嬖",
+      "strokes": 16
+    },
+    {
+      "kanji": "嬲",
+      "strokes": 17
+    },
+    {
+      "kanji": "嫐",
+      "strokes": 13
+    },
+    {
+      "kanji": "嬪",
+      "strokes": 17
+    },
+    {
+      "kanji": "嬶",
+      "strokes": 17
+    },
+    {
+      "kanji": "嬾",
+      "strokes": 19
+    },
+    {
+      "kanji": "孃",
+      "strokes": 20
+    },
+    {
+      "kanji": "孅",
+      "strokes": 20
+    },
+    {
+      "kanji": "孀",
+      "strokes": 20
+    },
+    {
+      "kanji": "孰",
+      "strokes": 11
+    },
+    {
+      "kanji": "孳",
+      "strokes": 12
+    },
+    {
+      "kanji": "孵",
+      "strokes": 14
+    },
+    {
+      "kanji": "學",
+      "strokes": 16
+    },
+    {
+      "kanji": "孺",
+      "strokes": 17
+    },
+    {
+      "kanji": "宦",
+      "strokes": 10
+    },
+    {
+      "kanji": "宸",
+      "strokes": 10
+    },
+    {
+      "kanji": "寃",
+      "strokes": 11
+    },
+    {
+      "kanji": "寇",
+      "strokes": 11
+    },
+    {
+      "kanji": "寉",
+      "strokes": 11
+    },
+    {
+      "kanji": "寔",
+      "strokes": 12
+    },
+    {
+      "kanji": "寐",
+      "strokes": 12
+    },
+    {
+      "kanji": "寤",
+      "strokes": 14
+    },
+    {
+      "kanji": "實",
+      "strokes": 14
+    },
+    {
+      "kanji": "寢",
+      "strokes": 14
+    },
+    {
+      "kanji": "寞",
+      "strokes": 13
+    },
+    {
+      "kanji": "寥",
+      "strokes": 14
+    },
+    {
+      "kanji": "寫",
+      "strokes": 15
+    },
+    {
+      "kanji": "寰",
+      "strokes": 16
+    },
+    {
+      "kanji": "寶",
+      "strokes": 20
+    },
+    {
+      "kanji": "寳",
+      "strokes": 19
+    },
+    {
+      "kanji": "尅",
+      "strokes": 10
+    },
+    {
+      "kanji": "將",
+      "strokes": 11
+    },
+    {
+      "kanji": "專",
+      "strokes": 11
+    },
+    {
+      "kanji": "對",
+      "strokes": 14
+    },
+    {
+      "kanji": "尠",
+      "strokes": 13
+    },
+    {
+      "kanji": "屓",
+      "strokes": 10
+    },
+    {
+      "kanji": "屐",
+      "strokes": 10
+    },
+    {
+      "kanji": "孱",
+      "strokes": 12
+    },
+    {
+      "kanji": "屬",
+      "strokes": 21
+    },
+    {
+      "kanji": "峩",
+      "strokes": 10
+    },
+    {
+      "kanji": "峽",
+      "strokes": 10
+    },
+    {
+      "kanji": "峺",
+      "strokes": 10
+    },
+    {
+      "kanji": "峭",
+      "strokes": 10
+    },
+    {
+      "kanji": "嶌",
+      "strokes": 14
+    },
+    {
+      "kanji": "峪",
+      "strokes": 10
+    },
+    {
+      "kanji": "崋",
+      "strokes": 10
+    },
+    {
+      "kanji": "崕",
+      "strokes": 11
+    },
+    {
+      "kanji": "崗",
+      "strokes": 11
+    },
+    {
+      "kanji": "嵜",
+      "strokes": 12
+    },
+    {
+      "kanji": "崟",
+      "strokes": 11
+    },
+    {
+      "kanji": "崛",
+      "strokes": 11
+    },
+    {
+      "kanji": "崑",
+      "strokes": 11
+    },
+    {
+      "kanji": "崔",
+      "strokes": 11
+    },
+    {
+      "kanji": "崢",
+      "strokes": 11
+    },
+    {
+      "kanji": "崚",
+      "strokes": 11
+    },
+    {
+      "kanji": "崙",
+      "strokes": 11
+    },
+    {
+      "kanji": "崘",
+      "strokes": 11
+    },
+    {
+      "kanji": "嵌",
+      "strokes": 12
+    },
+    {
+      "kanji": "嵒",
+      "strokes": 12
+    },
+    {
+      "kanji": "嵎",
+      "strokes": 12
+    },
+    {
+      "kanji": "嵋",
+      "strokes": 12
+    },
+    {
+      "kanji": "嵬",
+      "strokes": 13
+    },
+    {
+      "kanji": "嵳",
+      "strokes": 13
+    },
+    {
+      "kanji": "嵶",
+      "strokes": 13
+    },
+    {
+      "kanji": "嶇",
+      "strokes": 14
+    },
+    {
+      "kanji": "嶄",
+      "strokes": 14
+    },
+    {
+      "kanji": "嶂",
+      "strokes": 14
+    },
+    {
+      "kanji": "嶢",
+      "strokes": 15
+    },
+    {
+      "kanji": "嶝",
+      "strokes": 15
+    },
+    {
+      "kanji": "嶬",
+      "strokes": 16
+    },
+    {
+      "kanji": "嶮",
+      "strokes": 16
+    },
+    {
+      "kanji": "嶽",
+      "strokes": 17
+    },
+    {
+      "kanji": "嶐",
+      "strokes": 14
+    },
+    {
+      "kanji": "嶷",
+      "strokes": 17
+    },
+    {
+      "kanji": "嶼",
+      "strokes": 16
+    },
+    {
+      "kanji": "巉",
+      "strokes": 20
+    },
+    {
+      "kanji": "巍",
+      "strokes": 21
+    },
+    {
+      "kanji": "巓",
+      "strokes": 22
+    },
+    {
+      "kanji": "巒",
+      "strokes": 22
+    },
+    {
+      "kanji": "巖",
+      "strokes": 23
+    },
+    {
+      "kanji": "帶",
+      "strokes": 11
+    },
+    {
+      "kanji": "帷",
+      "strokes": 11
+    },
+    {
+      "kanji": "幄",
+      "strokes": 12
+    },
+    {
+      "kanji": "幃",
+      "strokes": 13
+    },
+    {
+      "kanji": "幀",
+      "strokes": 12
+    },
+    {
+      "kanji": "幎",
+      "strokes": 13
+    },
+    {
+      "kanji": "幗",
+      "strokes": 14
+    },
+    {
+      "kanji": "幔",
+      "strokes": 14
+    },
+    {
+      "kanji": "幟",
+      "strokes": 15
+    },
+    {
+      "kanji": "幢",
+      "strokes": 15
+    },
+    {
+      "kanji": "幤",
+      "strokes": 15
+    },
+    {
+      "kanji": "幇",
+      "strokes": 12
+    },
+    {
+      "kanji": "麼",
+      "strokes": 14
+    },
+    {
+      "kanji": "廁",
+      "strokes": 12
+    },
+    {
+      "kanji": "廂",
+      "strokes": 12
+    },
+    {
+      "kanji": "廈",
+      "strokes": 13
+    },
+    {
+      "kanji": "廐",
+      "strokes": 13
+    },
+    {
+      "kanji": "廏",
+      "strokes": 14
+    },
+    {
+      "kanji": "廖",
+      "strokes": 14
+    },
+    {
+      "kanji": "廣",
+      "strokes": 15
+    },
+    {
+      "kanji": "廝",
+      "strokes": 15
+    },
+    {
+      "kanji": "廚",
+      "strokes": 15
+    },
+    {
+      "kanji": "廛",
+      "strokes": 15
+    },
+    {
+      "kanji": "廢",
+      "strokes": 15
+    },
+    {
+      "kanji": "廡",
+      "strokes": 15
+    },
+    {
+      "kanji": "廨",
+      "strokes": 16
+    },
+    {
+      "kanji": "廩",
+      "strokes": 16
+    },
+    {
+      "kanji": "廬",
+      "strokes": 19
+    },
+    {
+      "kanji": "廱",
+      "strokes": 21
+    },
+    {
+      "kanji": "廳",
+      "strokes": 25
+    },
+    {
+      "kanji": "廰",
+      "strokes": 20
+    },
+    {
+      "kanji": "弉",
+      "strokes": 10
+    },
+    {
+      "kanji": "彝",
+      "strokes": 18
+    },
+    {
+      "kanji": "彜",
+      "strokes": 16
+    },
+    {
+      "kanji": "弑",
+      "strokes": 12
+    },
+    {
+      "kanji": "弸",
+      "strokes": 11
+    },
+    {
+      "kanji": "彁",
+      "strokes": 13
+    },
+    {
+      "kanji": "彈",
+      "strokes": 15
+    },
+    {
+      "kanji": "彌",
+      "strokes": 17
+    },
+    {
+      "kanji": "彎",
+      "strokes": 22
+    },
+    {
+      "kanji": "彗",
+      "strokes": 11
+    },
+    {
+      "kanji": "彙",
+      "strokes": 13
+    },
+    {
+      "kanji": "彭",
+      "strokes": 12
+    },
+    {
+      "kanji": "徑",
+      "strokes": 10
+    },
+    {
+      "kanji": "從",
+      "strokes": 11
+    },
+    {
+      "kanji": "徙",
+      "strokes": 11
+    },
+    {
+      "kanji": "徘",
+      "strokes": 11
+    },
+    {
+      "kanji": "徠",
+      "strokes": 11
+    },
+    {
+      "kanji": "徨",
+      "strokes": 12
+    },
+    {
+      "kanji": "徭",
+      "strokes": 13
+    },
+    {
+      "kanji": "徼",
+      "strokes": 16
+    },
+    {
+      "kanji": "悳",
+      "strokes": 12
+    },
+    {
+      "kanji": "恚",
+      "strokes": 10
+    },
+    {
+      "kanji": "恁",
+      "strokes": 10
+    },
+    {
+      "kanji": "恷",
+      "strokes": 10
+    },
+    {
+      "kanji": "恣",
+      "strokes": 10
+    },
+    {
+      "kanji": "恙",
+      "strokes": 10
+    },
+    {
+      "kanji": "悁",
+      "strokes": 10
+    },
+    {
+      "kanji": "悍",
+      "strokes": 10
+    },
+    {
+      "kanji": "惧",
+      "strokes": 11
+    },
+    {
+      "kanji": "悃",
+      "strokes": 10
+    },
+    {
+      "kanji": "悚",
+      "strokes": 10
+    },
+    {
+      "kanji": "悄",
+      "strokes": 10
+    },
+    {
+      "kanji": "悛",
+      "strokes": 10
+    },
+    {
+      "kanji": "悖",
+      "strokes": 10
+    },
+    {
+      "kanji": "悗",
+      "strokes": 10
+    },
+    {
+      "kanji": "悒",
+      "strokes": 10
+    },
+    {
+      "kanji": "悧",
+      "strokes": 10
+    },
+    {
+      "kanji": "悋",
+      "strokes": 10
+    },
+    {
+      "kanji": "惡",
+      "strokes": 12
+    },
+    {
+      "kanji": "悸",
+      "strokes": 11
+    },
+    {
+      "kanji": "惠",
+      "strokes": 12
+    },
+    {
+      "kanji": "惓",
+      "strokes": 12
+    },
+    {
+      "kanji": "悴",
+      "strokes": 11
+    },
+    {
+      "kanji": "悽",
+      "strokes": 11
+    },
+    {
+      "kanji": "惆",
+      "strokes": 11
+    },
+    {
+      "kanji": "悵",
+      "strokes": 11
+    },
+    {
+      "kanji": "惘",
+      "strokes": 11
+    },
+    {
+      "kanji": "慍",
+      "strokes": 13
+    },
+    {
+      "kanji": "愕",
+      "strokes": 12
+    },
+    {
+      "kanji": "愆",
+      "strokes": 13
+    },
+    {
+      "kanji": "惶",
+      "strokes": 12
+    },
+    {
+      "kanji": "惷",
+      "strokes": 13
+    },
+    {
+      "kanji": "愀",
+      "strokes": 12
+    },
+    {
+      "kanji": "惴",
+      "strokes": 12
+    },
+    {
+      "kanji": "惺",
+      "strokes": 12
+    },
+    {
+      "kanji": "愃",
+      "strokes": 12
+    },
+    {
+      "kanji": "愡",
+      "strokes": 12
+    },
+    {
+      "kanji": "惻",
+      "strokes": 12
+    },
+    {
+      "kanji": "惱",
+      "strokes": 12
+    },
+    {
+      "kanji": "愍",
+      "strokes": 13
+    },
+    {
+      "kanji": "愎",
+      "strokes": 12
+    },
+    {
+      "kanji": "慇",
+      "strokes": 14
+    },
+    {
+      "kanji": "愾",
+      "strokes": 13
+    },
+    {
+      "kanji": "愨",
+      "strokes": 14
+    },
+    {
+      "kanji": "愧",
+      "strokes": 13
+    },
+    {
+      "kanji": "慊",
+      "strokes": 13
+    },
+    {
+      "kanji": "愿",
+      "strokes": 14
+    },
+    {
+      "kanji": "愼",
+      "strokes": 13
+    },
+    {
+      "kanji": "愬",
+      "strokes": 14
+    },
+    {
+      "kanji": "愴",
+      "strokes": 13
+    },
+    {
+      "kanji": "愽",
+      "strokes": 13
+    },
+    {
+      "kanji": "慂",
+      "strokes": 14
+    },
+    {
+      "kanji": "慄",
+      "strokes": 13
+    },
+    {
+      "kanji": "慳",
+      "strokes": 15
+    },
+    {
+      "kanji": "慷",
+      "strokes": 14
+    },
+    {
+      "kanji": "慘",
+      "strokes": 14
+    },
+    {
+      "kanji": "慙",
+      "strokes": 15
+    },
+    {
+      "kanji": "慚",
+      "strokes": 14
+    },
+    {
+      "kanji": "慫",
+      "strokes": 15
+    },
+    {
+      "kanji": "慴",
+      "strokes": 14
+    },
+    {
+      "kanji": "慯",
+      "strokes": 14
+    },
+    {
+      "kanji": "慥",
+      "strokes": 14
+    },
+    {
+      "kanji": "慱",
+      "strokes": 14
+    },
+    {
+      "kanji": "慟",
+      "strokes": 14
+    },
+    {
+      "kanji": "慝",
+      "strokes": 14
+    },
+    {
+      "kanji": "慓",
+      "strokes": 14
+    },
+    {
+      "kanji": "慵",
+      "strokes": 14
+    },
+    {
+      "kanji": "憙",
+      "strokes": 16
+    },
+    {
+      "kanji": "憖",
+      "strokes": 16
+    },
+    {
+      "kanji": "憇",
+      "strokes": 15
+    },
+    {
+      "kanji": "憬",
+      "strokes": 15
+    },
+    {
+      "kanji": "憔",
+      "strokes": 15
+    },
+    {
+      "kanji": "憚",
+      "strokes": 15
+    },
+    {
+      "kanji": "憊",
+      "strokes": 16
+    },
+    {
+      "kanji": "憑",
+      "strokes": 16
+    },
+    {
+      "kanji": "憫",
+      "strokes": 15
+    },
+    {
+      "kanji": "憮",
+      "strokes": 15
+    },
+    {
+      "kanji": "懌",
+      "strokes": 16
+    },
+    {
+      "kanji": "懊",
+      "strokes": 16
+    },
+    {
+      "kanji": "應",
+      "strokes": 17
+    },
+    {
+      "kanji": "懷",
+      "strokes": 19
+    },
+    {
+      "kanji": "懈",
+      "strokes": 16
+    },
+    {
+      "kanji": "懃",
+      "strokes": 17
+    },
+    {
+      "kanji": "懆",
+      "strokes": 16
+    },
+    {
+      "kanji": "憺",
+      "strokes": 16
+    },
+    {
+      "kanji": "懋",
+      "strokes": 17
+    },
+    {
+      "kanji": "罹",
+      "strokes": 16
+    },
+    {
+      "kanji": "懍",
+      "strokes": 16
+    },
+    {
+      "kanji": "懦",
+      "strokes": 17
+    },
+    {
+      "kanji": "懣",
+      "strokes": 18
+    },
+    {
+      "kanji": "懶",
+      "strokes": 19
+    },
+    {
+      "kanji": "懺",
+      "strokes": 20
+    },
+    {
+      "kanji": "懴",
+      "strokes": 18
+    },
+    {
+      "kanji": "懿",
+      "strokes": 22
+    },
+    {
+      "kanji": "懽",
+      "strokes": 20
+    },
+    {
+      "kanji": "懼",
+      "strokes": 21
+    },
+    {
+      "kanji": "懾",
+      "strokes": 21
+    },
+    {
+      "kanji": "戀",
+      "strokes": 23
+    },
+    {
+      "kanji": "戛",
+      "strokes": 11
+    },
+    {
+      "kanji": "戞",
+      "strokes": 12
+    },
+    {
+      "kanji": "戡",
+      "strokes": 13
+    },
+    {
+      "kanji": "截",
+      "strokes": 14
+    },
+    {
+      "kanji": "戮",
+      "strokes": 15
+    },
+    {
+      "kanji": "戰",
+      "strokes": 16
+    },
+    {
+      "kanji": "戲",
+      "strokes": 17
+    },
+    {
+      "kanji": "戳",
+      "strokes": 18
+    },
+    {
+      "kanji": "拿",
+      "strokes": 10
+    },
+    {
+      "kanji": "擔",
+      "strokes": 16
+    },
+    {
+      "kanji": "挈",
+      "strokes": 10
+    },
+    {
+      "kanji": "捐",
+      "strokes": 10
+    },
+    {
+      "kanji": "挾",
+      "strokes": 10
+    },
+    {
+      "kanji": "捍",
+      "strokes": 10
+    },
+    {
+      "kanji": "搜",
+      "strokes": 13
+    },
+    {
+      "kanji": "捏",
+      "strokes": 10
+    },
+    {
+      "kanji": "掖",
+      "strokes": 11
+    },
+    {
+      "kanji": "掎",
+      "strokes": 11
+    },
+    {
+      "kanji": "掀",
+      "strokes": 11
+    },
+    {
+      "kanji": "掫",
+      "strokes": 11
+    },
+    {
+      "kanji": "捶",
+      "strokes": 11
+    },
+    {
+      "kanji": "掣",
+      "strokes": 12
+    },
+    {
+      "kanji": "掏",
+      "strokes": 11
+    },
+    {
+      "kanji": "掉",
+      "strokes": 11
+    },
+    {
+      "kanji": "掟",
+      "strokes": 11
+    },
+    {
+      "kanji": "掵",
+      "strokes": 11
+    },
+    {
+      "kanji": "捫",
+      "strokes": 11
+    },
+    {
+      "kanji": "捩",
+      "strokes": 10
+    },
+    {
+      "kanji": "掾",
+      "strokes": 12
+    },
+    {
+      "kanji": "揩",
+      "strokes": 12
+    },
+    {
+      "kanji": "揀",
+      "strokes": 12
+    },
+    {
+      "kanji": "揆",
+      "strokes": 12
+    },
+    {
+      "kanji": "揣",
+      "strokes": 12
+    },
+    {
+      "kanji": "揉",
+      "strokes": 12
+    },
+    {
+      "kanji": "插",
+      "strokes": 12
+    },
+    {
+      "kanji": "揶",
+      "strokes": 12
+    },
+    {
+      "kanji": "揄",
+      "strokes": 12
+    },
+    {
+      "kanji": "搖",
+      "strokes": 13
+    },
+    {
+      "kanji": "搴",
+      "strokes": 14
+    },
+    {
+      "kanji": "搆",
+      "strokes": 13
+    },
+    {
+      "kanji": "搓",
+      "strokes": 13
+    },
+    {
+      "kanji": "搦",
+      "strokes": 13
+    },
+    {
+      "kanji": "搶",
+      "strokes": 13
+    },
+    {
+      "kanji": "攝",
+      "strokes": 21
+    },
+    {
+      "kanji": "搗",
+      "strokes": 13
+    },
+    {
+      "kanji": "搨",
+      "strokes": 13
+    },
+    {
+      "kanji": "搏",
+      "strokes": 13
+    },
+    {
+      "kanji": "摧",
+      "strokes": 14
+    },
+    {
+      "kanji": "摯",
+      "strokes": 15
+    },
+    {
+      "kanji": "摶",
+      "strokes": 14
+    },
+    {
+      "kanji": "摎",
+      "strokes": 14
+    },
+    {
+      "kanji": "攪",
+      "strokes": 23
+    },
+    {
+      "kanji": "撕",
+      "strokes": 15
+    },
+    {
+      "kanji": "撓",
+      "strokes": 15
+    },
+    {
+      "kanji": "撥",
+      "strokes": 15
+    },
+    {
+      "kanji": "撩",
+      "strokes": 15
+    },
+    {
+      "kanji": "撈",
+      "strokes": 15
+    },
+    {
+      "kanji": "撼",
+      "strokes": 16
+    },
+    {
+      "kanji": "據",
+      "strokes": 16
+    },
+    {
+      "kanji": "擒",
+      "strokes": 16
+    },
+    {
+      "kanji": "擅",
+      "strokes": 16
+    },
+    {
+      "kanji": "擇",
+      "strokes": 16
+    },
+    {
+      "kanji": "撻",
+      "strokes": 16
+    },
+    {
+      "kanji": "擘",
+      "strokes": 17
+    },
+    {
+      "kanji": "擂",
+      "strokes": 16
+    },
+    {
+      "kanji": "擱",
+      "strokes": 17
+    },
+    {
+      "kanji": "擧",
+      "strokes": 17
+    },
+    {
+      "kanji": "舉",
+      "strokes": 16
+    },
+    {
+      "kanji": "擠",
+      "strokes": 17
+    },
+    {
+      "kanji": "擡",
+      "strokes": 17
+    },
+    {
+      "kanji": "擣",
+      "strokes": 17
+    },
+    {
+      "kanji": "擯",
+      "strokes": 17
+    },
+    {
+      "kanji": "攬",
+      "strokes": 25
+    },
+    {
+      "kanji": "擶",
+      "strokes": 18
+    },
+    {
+      "kanji": "擴",
+      "strokes": 18
+    },
+    {
+      "kanji": "擲",
+      "strokes": 18
+    },
+    {
+      "kanji": "擺",
+      "strokes": 18
+    },
+    {
+      "kanji": "攀",
+      "strokes": 19
+    },
+    {
+      "kanji": "擽",
+      "strokes": 18
+    },
+    {
+      "kanji": "攘",
+      "strokes": 20
+    },
+    {
+      "kanji": "攜",
+      "strokes": 21
+    },
+    {
+      "kanji": "攅",
+      "strokes": 18
+    },
+    {
+      "kanji": "攤",
+      "strokes": 22
+    },
+    {
+      "kanji": "攣",
+      "strokes": 23
+    },
+    {
+      "kanji": "攫",
+      "strokes": 23
+    },
+    {
+      "kanji": "效",
+      "strokes": 10
+    },
+    {
+      "kanji": "敖",
+      "strokes": 11
+    },
+    {
+      "kanji": "敕",
+      "strokes": 11
+    },
+    {
+      "kanji": "敍",
+      "strokes": 11
+    },
+    {
+      "kanji": "敘",
+      "strokes": 11
+    },
+    {
+      "kanji": "敞",
+      "strokes": 12
+    },
+    {
+      "kanji": "敝",
+      "strokes": 12
+    },
+    {
+      "kanji": "敲",
+      "strokes": 14
+    },
+    {
+      "kanji": "數",
+      "strokes": 15
+    },
+    {
+      "kanji": "斂",
+      "strokes": 17
+    },
+    {
+      "kanji": "斃",
+      "strokes": 18
+    },
+    {
+      "kanji": "變",
+      "strokes": 23
+    },
+    {
+      "kanji": "斛",
+      "strokes": 11
+    },
+    {
+      "kanji": "斟",
+      "strokes": 13
+    },
+    {
+      "kanji": "斷",
+      "strokes": 18
+    },
+    {
+      "kanji": "旃",
+      "strokes": 10
+    },
+    {
+      "kanji": "旆",
+      "strokes": 10
+    },
+    {
+      "kanji": "旁",
+      "strokes": 10
+    },
+    {
+      "kanji": "旄",
+      "strokes": 10
+    },
+    {
+      "kanji": "旌",
+      "strokes": 11
+    },
+    {
+      "kanji": "旒",
+      "strokes": 13
+    },
+    {
+      "kanji": "旛",
+      "strokes": 18
+    },
+    {
+      "kanji": "旙",
+      "strokes": 16
+    },
+    {
+      "kanji": "晏",
+      "strokes": 10
+    },
+    {
+      "kanji": "晄",
+      "strokes": 10
+    },
+    {
+      "kanji": "晉",
+      "strokes": 10
+    },
+    {
+      "kanji": "晁",
+      "strokes": 10
+    },
+    {
+      "kanji": "晞",
+      "strokes": 11
+    },
+    {
+      "kanji": "晝",
+      "strokes": 11
+    },
+    {
+      "kanji": "晤",
+      "strokes": 11
+    },
+    {
+      "kanji": "晧",
+      "strokes": 11
+    },
+    {
+      "kanji": "晨",
+      "strokes": 11
+    },
+    {
+      "kanji": "晟",
+      "strokes": 10
+    },
+    {
+      "kanji": "晢",
+      "strokes": 11
+    },
+    {
+      "kanji": "晰",
+      "strokes": 12
+    },
+    {
+      "kanji": "暃",
+      "strokes": 12
+    },
+    {
+      "kanji": "暎",
+      "strokes": 12
+    },
+    {
+      "kanji": "暉",
+      "strokes": 13
+    },
+    {
+      "kanji": "暄",
+      "strokes": 13
+    },
+    {
+      "kanji": "暘",
+      "strokes": 13
+    },
+    {
+      "kanji": "暝",
+      "strokes": 14
+    },
+    {
+      "kanji": "曁",
+      "strokes": 16
+    },
+    {
+      "kanji": "暹",
+      "strokes": 16
+    },
+    {
+      "kanji": "曉",
+      "strokes": 16
+    },
+    {
+      "kanji": "暾",
+      "strokes": 16
+    },
+    {
+      "kanji": "暼",
+      "strokes": 16
+    },
+    {
+      "kanji": "曄",
+      "strokes": 14
+    },
+    {
+      "kanji": "暸",
+      "strokes": 16
+    },
+    {
+      "kanji": "曖",
+      "strokes": 17
+    },
+    {
+      "kanji": "曚",
+      "strokes": 17
+    },
+    {
+      "kanji": "曠",
+      "strokes": 19
+    },
+    {
+      "kanji": "曦",
+      "strokes": 20
+    },
+    {
+      "kanji": "曩",
+      "strokes": 21
+    },
+    {
+      "kanji": "朖",
+      "strokes": 11
+    },
+    {
+      "kanji": "朞",
+      "strokes": 12
+    },
+    {
+      "kanji": "朦",
+      "strokes": 17
+    },
+    {
+      "kanji": "朧",
+      "strokes": 20
+    },
+    {
+      "kanji": "霸",
+      "strokes": 21
+    },
+    {
+      "kanji": "柧",
+      "strokes": 10
+    },
+    {
+      "kanji": "檜",
+      "strokes": 17
+    },
+    {
+      "kanji": "栞",
+      "strokes": 10
+    },
+    {
+      "kanji": "框",
+      "strokes": 10
+    },
+    {
+      "kanji": "栩",
+      "strokes": 10
+    },
+    {
+      "kanji": "桀",
+      "strokes": 11
+    },
+    {
+      "kanji": "桍",
+      "strokes": 10
+    },
+    {
+      "kanji": "栲",
+      "strokes": 10
+    },
+    {
+      "kanji": "桎",
+      "strokes": 10
+    },
+    {
+      "kanji": "梳",
+      "strokes": 11
+    },
+    {
+      "kanji": "栫",
+      "strokes": 10
+    },
+    {
+      "kanji": "桙",
+      "strokes": 10
+    },
+    {
+      "kanji": "档",
+      "strokes": 10
+    },
+    {
+      "kanji": "桷",
+      "strokes": 11
+    },
+    {
+      "kanji": "桿",
+      "strokes": 11
+    },
+    {
+      "kanji": "梟",
+      "strokes": 11
+    },
+    {
+      "kanji": "梏",
+      "strokes": 11
+    },
+    {
+      "kanji": "梭",
+      "strokes": 11
+    },
+    {
+      "kanji": "梔",
+      "strokes": 11
+    },
+    {
+      "kanji": "條",
+      "strokes": 11
+    },
+    {
+      "kanji": "梛",
+      "strokes": 11
+    },
+    {
+      "kanji": "梃",
+      "strokes": 11
+    },
+    {
+      "kanji": "檮",
+      "strokes": 18
+    },
+    {
+      "kanji": "梹",
+      "strokes": 11
+    },
+    {
+      "kanji": "桴",
+      "strokes": 11
+    },
+    {
+      "kanji": "梵",
+      "strokes": 11
+    },
+    {
+      "kanji": "梠",
+      "strokes": 11
+    },
+    {
+      "kanji": "梺",
+      "strokes": 11
+    },
+    {
+      "kanji": "椏",
+      "strokes": 12
+    },
+    {
+      "kanji": "梍",
+      "strokes": 11
+    },
+    {
+      "kanji": "桾",
+      "strokes": 11
+    },
+    {
+      "kanji": "椁",
+      "strokes": 12
+    },
+    {
+      "kanji": "棊",
+      "strokes": 12
+    },
+    {
+      "kanji": "椈",
+      "strokes": 12
+    },
+    {
+      "kanji": "棘",
+      "strokes": 12
+    },
+    {
+      "kanji": "椢",
+      "strokes": 12
+    },
+    {
+      "kanji": "椦",
+      "strokes": 12
+    },
+    {
+      "kanji": "棡",
+      "strokes": 12
+    },
+    {
+      "kanji": "椌",
+      "strokes": 12
+    },
+    {
+      "kanji": "棍",
+      "strokes": 12
+    },
+    {
+      "kanji": "棔",
+      "strokes": 12
+    },
+    {
+      "kanji": "棧",
+      "strokes": 12
+    },
+    {
+      "kanji": "棕",
+      "strokes": 12
+    },
+    {
+      "kanji": "椶",
+      "strokes": 13
+    },
+    {
+      "kanji": "椒",
+      "strokes": 12
+    },
+    {
+      "kanji": "椄",
+      "strokes": 12
+    },
+    {
+      "kanji": "棗",
+      "strokes": 12
+    },
+    {
+      "kanji": "棣",
+      "strokes": 12
+    },
+    {
+      "kanji": "椥",
+      "strokes": 12
+    },
+    {
+      "kanji": "棹",
+      "strokes": 12
+    },
+    {
+      "kanji": "棠",
+      "strokes": 12
+    },
+    {
+      "kanji": "棯",
+      "strokes": 12
+    },
+    {
+      "kanji": "椨",
+      "strokes": 12
+    },
+    {
+      "kanji": "椪",
+      "strokes": 12
+    },
+    {
+      "kanji": "椚",
+      "strokes": 12
+    },
+    {
+      "kanji": "椣",
+      "strokes": 12
+    },
+    {
+      "kanji": "椡",
+      "strokes": 12
+    },
+    {
+      "kanji": "棆",
+      "strokes": 12
+    },
+    {
+      "kanji": "楹",
+      "strokes": 13
+    },
+    {
+      "kanji": "楷",
+      "strokes": 13
+    },
+    {
+      "kanji": "楜",
+      "strokes": 13
+    },
+    {
+      "kanji": "楸",
+      "strokes": 13
+    },
+    {
+      "kanji": "楫",
+      "strokes": 13
+    },
+    {
+      "kanji": "楔",
+      "strokes": 13
+    },
+    {
+      "kanji": "楾",
+      "strokes": 13
+    },
+    {
+      "kanji": "楮",
+      "strokes": 13
+    },
+    {
+      "kanji": "椹",
+      "strokes": 13
+    },
+    {
+      "kanji": "楴",
+      "strokes": 13
+    },
+    {
+      "kanji": "椽",
+      "strokes": 13
+    },
+    {
+      "kanji": "楙",
+      "strokes": 13
+    },
+    {
+      "kanji": "椰",
+      "strokes": 13
+    },
+    {
+      "kanji": "楡",
+      "strokes": 13
+    },
+    {
+      "kanji": "楞",
+      "strokes": 13
+    },
+    {
+      "kanji": "楝",
+      "strokes": 13
+    },
+    {
+      "kanji": "榁",
+      "strokes": 13
+    },
+    {
+      "kanji": "楪",
+      "strokes": 13
+    },
+    {
+      "kanji": "榲",
+      "strokes": 14
+    },
+    {
+      "kanji": "榮",
+      "strokes": 14
+    },
+    {
+      "kanji": "槐",
+      "strokes": 14
+    },
+    {
+      "kanji": "榿",
+      "strokes": 14
+    },
+    {
+      "kanji": "槁",
+      "strokes": 14
+    },
+    {
+      "kanji": "槓",
+      "strokes": 14
+    },
+    {
+      "kanji": "榾",
+      "strokes": 14
+    },
+    {
+      "kanji": "槎",
+      "strokes": 14
+    },
+    {
+      "kanji": "寨",
+      "strokes": 14
+    },
+    {
+      "kanji": "槊",
+      "strokes": 14
+    },
+    {
+      "kanji": "槝",
+      "strokes": 14
+    },
+    {
+      "kanji": "榻",
+      "strokes": 14
+    },
+    {
+      "kanji": "槃",
+      "strokes": 14
+    },
+    {
+      "kanji": "榧",
+      "strokes": 14
+    },
+    {
+      "kanji": "樮",
+      "strokes": 14
+    },
+    {
+      "kanji": "榑",
+      "strokes": 14
+    },
+    {
+      "kanji": "榠",
+      "strokes": 14
+    },
+    {
+      "kanji": "榜",
+      "strokes": 14
+    },
+    {
+      "kanji": "榕",
+      "strokes": 14
+    },
+    {
+      "kanji": "榴",
+      "strokes": 14
+    },
+    {
+      "kanji": "槞",
+      "strokes": 14
+    },
+    {
+      "kanji": "槨",
+      "strokes": 15
+    },
+    {
+      "kanji": "樂",
+      "strokes": 15
+    },
+    {
+      "kanji": "樛",
+      "strokes": 15
+    },
+    {
+      "kanji": "槿",
+      "strokes": 15
+    },
+    {
+      "kanji": "權",
+      "strokes": 21
+    },
+    {
+      "kanji": "槹",
+      "strokes": 15
+    },
+    {
+      "kanji": "槲",
+      "strokes": 15
+    },
+    {
+      "kanji": "槧",
+      "strokes": 15
+    },
+    {
+      "kanji": "樅",
+      "strokes": 15
+    },
+    {
+      "kanji": "榱",
+      "strokes": 14
+    },
+    {
+      "kanji": "樞",
+      "strokes": 15
+    },
+    {
+      "kanji": "槭",
+      "strokes": 15
+    },
+    {
+      "kanji": "樔",
+      "strokes": 15
+    },
+    {
+      "kanji": "槫",
+      "strokes": 15
+    },
+    {
+      "kanji": "樊",
+      "strokes": 15
+    },
+    {
+      "kanji": "樒",
+      "strokes": 15
+    },
+    {
+      "kanji": "櫁",
+      "strokes": 18
+    },
+    {
+      "kanji": "樣",
+      "strokes": 15
+    },
+    {
+      "kanji": "樓",
+      "strokes": 15
+    },
+    {
+      "kanji": "橄",
+      "strokes": 16
+    },
+    {
+      "kanji": "樌",
+      "strokes": 15
+    },
+    {
+      "kanji": "橲",
+      "strokes": 16
+    },
+    {
+      "kanji": "樶",
+      "strokes": 16
+    },
+    {
+      "kanji": "橸",
+      "strokes": 16
+    },
+    {
+      "kanji": "橇",
+      "strokes": 16
+    },
+    {
+      "kanji": "橢",
+      "strokes": 16
+    },
+    {
+      "kanji": "橙",
+      "strokes": 16
+    },
+    {
+      "kanji": "橦",
+      "strokes": 16
+    },
+    {
+      "kanji": "橈",
+      "strokes": 16
+    },
+    {
+      "kanji": "樸",
+      "strokes": 16
+    },
+    {
+      "kanji": "檐",
+      "strokes": 17
+    },
+    {
+      "kanji": "檍",
+      "strokes": 17
+    },
+    {
+      "kanji": "檠",
+      "strokes": 16
+    },
+    {
+      "kanji": "檄",
+      "strokes": 17
+    },
+    {
+      "kanji": "檢",
+      "strokes": 17
+    },
+    {
+      "kanji": "檣",
+      "strokes": 17
+    },
+    {
+      "kanji": "檗",
+      "strokes": 17
+    },
+    {
+      "kanji": "蘗",
+      "strokes": 20
+    },
+    {
+      "kanji": "檻",
+      "strokes": 19
+    },
+    {
+      "kanji": "櫃",
+      "strokes": 18
+    },
+    {
+      "kanji": "櫂",
+      "strokes": 18
+    },
+    {
+      "kanji": "檸",
+      "strokes": 18
+    },
+    {
+      "kanji": "檳",
+      "strokes": 18
+    },
+    {
+      "kanji": "檬",
+      "strokes": 17
+    },
+    {
+      "kanji": "櫞",
+      "strokes": 19
+    },
+    {
+      "kanji": "櫑",
+      "strokes": 19
+    },
+    {
+      "kanji": "櫟",
+      "strokes": 19
+    },
+    {
+      "kanji": "檪",
+      "strokes": 17
+    },
+    {
+      "kanji": "櫚",
+      "strokes": 19
+    },
+    {
+      "kanji": "櫪",
+      "strokes": 20
+    },
+    {
+      "kanji": "櫻",
+      "strokes": 21
+    },
+    {
+      "kanji": "欅",
+      "strokes": 21
+    },
+    {
+      "kanji": "蘖",
+      "strokes": 20
+    },
+    {
+      "kanji": "櫺",
+      "strokes": 21
+    },
+    {
+      "kanji": "欒",
+      "strokes": 23
+    },
+    {
+      "kanji": "欖",
+      "strokes": 26
+    },
+    {
+      "kanji": "鬱",
+      "strokes": 29
+    },
+    {
+      "kanji": "欟",
+      "strokes": 28
+    },
+    {
+      "kanji": "欸",
+      "strokes": 11
+    },
+    {
+      "kanji": "欷",
+      "strokes": 11
+    },
+    {
+      "kanji": "盜",
+      "strokes": 12
+    },
+    {
+      "kanji": "飮",
+      "strokes": 13
+    },
+    {
+      "kanji": "歇",
+      "strokes": 13
+    },
+    {
+      "kanji": "歃",
+      "strokes": 13
+    },
+    {
+      "kanji": "歉",
+      "strokes": 14
+    },
+    {
+      "kanji": "歐",
+      "strokes": 15
+    },
+    {
+      "kanji": "歙",
+      "strokes": 16
+    },
+    {
+      "kanji": "歔",
+      "strokes": 16
+    },
+    {
+      "kanji": "歛",
+      "strokes": 17
+    },
+    {
+      "kanji": "歟",
+      "strokes": 17
+    },
+    {
+      "kanji": "歡",
+      "strokes": 21
+    },
+    {
+      "kanji": "歸",
+      "strokes": 18
+    },
+    {
+      "kanji": "殍",
+      "strokes": 11
+    },
+    {
+      "kanji": "殘",
+      "strokes": 12
+    },
+    {
+      "kanji": "殕",
+      "strokes": 12
+    },
+    {
+      "kanji": "殞",
+      "strokes": 14
+    },
+    {
+      "kanji": "殤",
+      "strokes": 15
+    },
+    {
+      "kanji": "殪",
+      "strokes": 16
+    },
+    {
+      "kanji": "殫",
+      "strokes": 16
+    },
+    {
+      "kanji": "殯",
+      "strokes": 18
+    },
+    {
+      "kanji": "殲",
+      "strokes": 21
+    },
+    {
+      "kanji": "殱",
+      "strokes": 19
+    },
+    {
+      "kanji": "殷",
+      "strokes": 10
+    },
+    {
+      "kanji": "殼",
+      "strokes": 12
+    },
+    {
+      "kanji": "毆",
+      "strokes": 15
+    },
+    {
+      "kanji": "毓",
+      "strokes": 14
+    },
+    {
+      "kanji": "毬",
+      "strokes": 11
+    },
+    {
+      "kanji": "毫",
+      "strokes": 11
+    },
+    {
+      "kanji": "毳",
+      "strokes": 12
+    },
+    {
+      "kanji": "毯",
+      "strokes": 12
+    },
+    {
+      "kanji": "麾",
+      "strokes": 15
+    },
+    {
+      "kanji": "氈",
+      "strokes": 17
+    },
+    {
+      "kanji": "氤",
+      "strokes": 10
+    },
+    {
+      "kanji": "氣",
+      "strokes": 10
+    },
+    {
+      "kanji": "浣",
+      "strokes": 10
+    },
+    {
+      "kanji": "涓",
+      "strokes": 10
+    },
+    {
+      "kanji": "浤",
+      "strokes": 10
+    },
+    {
+      "kanji": "浚",
+      "strokes": 10
+    },
+    {
+      "kanji": "浹",
+      "strokes": 10
+    },
+    {
+      "kanji": "浙",
+      "strokes": 10
+    },
+    {
+      "kanji": "涎",
+      "strokes": 10
+    },
+    {
+      "kanji": "涕",
+      "strokes": 10
+    },
+    {
+      "kanji": "濤",
+      "strokes": 17
+    },
+    {
+      "kanji": "涅",
+      "strokes": 10
+    },
+    {
+      "kanji": "淹",
+      "strokes": 11
+    },
+    {
+      "kanji": "渕",
+      "strokes": 11
+    },
+    {
+      "kanji": "渊",
+      "strokes": 11
+    },
+    {
+      "kanji": "涵",
+      "strokes": 11
+    },
+    {
+      "kanji": "淇",
+      "strokes": 11
+    },
+    {
+      "kanji": "淦",
+      "strokes": 11
+    },
+    {
+      "kanji": "涸",
+      "strokes": 11
+    },
+    {
+      "kanji": "淆",
+      "strokes": 11
+    },
+    {
+      "kanji": "淬",
+      "strokes": 11
+    },
+    {
+      "kanji": "淞",
+      "strokes": 11
+    },
+    {
+      "kanji": "淌",
+      "strokes": 11
+    },
+    {
+      "kanji": "淨",
+      "strokes": 11
+    },
+    {
+      "kanji": "淒",
+      "strokes": 11
+    },
+    {
+      "kanji": "淅",
+      "strokes": 11
+    },
+    {
+      "kanji": "淺",
+      "strokes": 11
+    },
+    {
+      "kanji": "淙",
+      "strokes": 11
+    },
+    {
+      "kanji": "淤",
+      "strokes": 11
+    },
+    {
+      "kanji": "淕",
+      "strokes": 11
+    },
+    {
+      "kanji": "淪",
+      "strokes": 11
+    },
+    {
+      "kanji": "淮",
+      "strokes": 11
+    },
+    {
+      "kanji": "渭",
+      "strokes": 12
+    },
+    {
+      "kanji": "湮",
+      "strokes": 12
+    },
+    {
+      "kanji": "渮",
+      "strokes": 11
+    },
+    {
+      "kanji": "渙",
+      "strokes": 12
+    },
+    {
+      "kanji": "湲",
+      "strokes": 12
+    },
+    {
+      "kanji": "湟",
+      "strokes": 12
+    },
+    {
+      "kanji": "渾",
+      "strokes": 12
+    },
+    {
+      "kanji": "渣",
+      "strokes": 12
+    },
+    {
+      "kanji": "湫",
+      "strokes": 12
+    },
+    {
+      "kanji": "渫",
+      "strokes": 12
+    },
+    {
+      "kanji": "湶",
+      "strokes": 12
+    },
+    {
+      "kanji": "湍",
+      "strokes": 12
+    },
+    {
+      "kanji": "渟",
+      "strokes": 12
+    },
+    {
+      "kanji": "湃",
+      "strokes": 12
+    },
+    {
+      "kanji": "渺",
+      "strokes": 12
+    },
+    {
+      "kanji": "湎",
+      "strokes": 12
+    },
+    {
+      "kanji": "渤",
+      "strokes": 12
+    },
+    {
+      "kanji": "滿",
+      "strokes": 14
+    },
+    {
+      "kanji": "渝",
+      "strokes": 12
+    },
+    {
+      "kanji": "游",
+      "strokes": 12
+    },
+    {
+      "kanji": "溂",
+      "strokes": 12
+    },
+    {
+      "kanji": "溪",
+      "strokes": 13
+    },
+    {
+      "kanji": "溘",
+      "strokes": 13
+    },
+    {
+      "kanji": "滉",
+      "strokes": 13
+    },
+    {
+      "kanji": "溷",
+      "strokes": 13
+    },
+    {
+      "kanji": "滓",
+      "strokes": 13
+    },
+    {
+      "kanji": "溽",
+      "strokes": 13
+    },
+    {
+      "kanji": "溯",
+      "strokes": 13
+    },
+    {
+      "kanji": "滄",
+      "strokes": 13
+    },
+    {
+      "kanji": "溲",
+      "strokes": 13
+    },
+    {
+      "kanji": "滔",
+      "strokes": 13
+    },
+    {
+      "kanji": "滕",
+      "strokes": 15
+    },
+    {
+      "kanji": "溏",
+      "strokes": 13
+    },
+    {
+      "kanji": "溥",
+      "strokes": 13
+    },
+    {
+      "kanji": "滂",
+      "strokes": 13
+    },
+    {
+      "kanji": "溟",
+      "strokes": 13
+    },
+    {
+      "kanji": "潁",
+      "strokes": 15
+    },
+    {
+      "kanji": "漑",
+      "strokes": 15
+    },
+    {
+      "kanji": "灌",
+      "strokes": 20
+    },
+    {
+      "kanji": "滬",
+      "strokes": 14
+    },
+    {
+      "kanji": "滸",
+      "strokes": 14
+    },
+    {
+      "kanji": "滾",
+      "strokes": 14
+    },
+    {
+      "kanji": "漿",
+      "strokes": 15
+    },
+    {
+      "kanji": "滲",
+      "strokes": 14
+    },
+    {
+      "kanji": "漱",
+      "strokes": 14
+    },
+    {
+      "kanji": "滯",
+      "strokes": 14
+    },
+    {
+      "kanji": "漲",
+      "strokes": 14
+    },
+    {
+      "kanji": "滌",
+      "strokes": 14
+    },
+    {
+      "kanji": "漾",
+      "strokes": 14
+    },
+    {
+      "kanji": "漓",
+      "strokes": 14
+    },
+    {
+      "kanji": "滷",
+      "strokes": 14
+    },
+    {
+      "kanji": "澆",
+      "strokes": 15
+    },
+    {
+      "kanji": "潺",
+      "strokes": 15
+    },
+    {
+      "kanji": "潸",
+      "strokes": 15
+    },
+    {
+      "kanji": "澁",
+      "strokes": 15
+    },
+    {
+      "kanji": "澀",
+      "strokes": 17
+    },
+    {
+      "kanji": "潯",
+      "strokes": 15
+    },
+    {
+      "kanji": "潛",
+      "strokes": 17
+    },
+    {
+      "kanji": "濳",
+      "strokes": 19
+    },
+    {
+      "kanji": "潭",
+      "strokes": 15
+    },
+    {
+      "kanji": "澂",
+      "strokes": 15
+    },
+    {
+      "kanji": "潼",
+      "strokes": 15
+    },
+    {
+      "kanji": "潘",
+      "strokes": 15
+    },
+    {
+      "kanji": "澎",
+      "strokes": 15
+    },
+    {
+      "kanji": "澑",
+      "strokes": 15
+    },
+    {
+      "kanji": "濂",
+      "strokes": 16
+    },
+    {
+      "kanji": "潦",
+      "strokes": 15
+    },
+    {
+      "kanji": "澳",
+      "strokes": 16
+    },
+    {
+      "kanji": "澣",
+      "strokes": 16
+    },
+    {
+      "kanji": "澡",
+      "strokes": 16
+    },
+    {
+      "kanji": "澤",
+      "strokes": 16
+    },
+    {
+      "kanji": "澹",
+      "strokes": 16
+    },
+    {
+      "kanji": "濆",
+      "strokes": 15
+    },
+    {
+      "kanji": "澪",
+      "strokes": 16
+    },
+    {
+      "kanji": "濟",
+      "strokes": 17
+    },
+    {
+      "kanji": "濕",
+      "strokes": 17
+    },
+    {
+      "kanji": "濬",
+      "strokes": 17
+    },
+    {
+      "kanji": "濔",
+      "strokes": 17
+    },
+    {
+      "kanji": "濘",
+      "strokes": 17
+    },
+    {
+      "kanji": "濱",
+      "strokes": 17
+    },
+    {
+      "kanji": "濮",
+      "strokes": 17
+    },
+    {
+      "kanji": "濛",
+      "strokes": 16
+    },
+    {
+      "kanji": "瀉",
+      "strokes": 18
+    },
+    {
+      "kanji": "瀋",
+      "strokes": 18
+    },
+    {
+      "kanji": "濺",
+      "strokes": 18
+    },
+    {
+      "kanji": "瀑",
+      "strokes": 18
+    },
+    {
+      "kanji": "瀁",
+      "strokes": 18
+    },
+    {
+      "kanji": "瀏",
+      "strokes": 18
+    },
+    {
+      "kanji": "濾",
+      "strokes": 18
+    },
+    {
+      "kanji": "瀛",
+      "strokes": 19
+    },
+    {
+      "kanji": "瀚",
+      "strokes": 19
+    },
+    {
+      "kanji": "潴",
+      "strokes": 15
+    },
+    {
+      "kanji": "瀝",
+      "strokes": 19
+    },
+    {
+      "kanji": "瀘",
+      "strokes": 19
+    },
+    {
+      "kanji": "瀟",
+      "strokes": 19
+    },
+    {
+      "kanji": "瀰",
+      "strokes": 20
+    },
+    {
+      "kanji": "瀾",
+      "strokes": 20
+    },
+    {
+      "kanji": "瀲",
+      "strokes": 20
+    },
+    {
+      "kanji": "灑",
+      "strokes": 22
+    },
+    {
+      "kanji": "灣",
+      "strokes": 25
+    },
+    {
+      "kanji": "烱",
+      "strokes": 11
+    },
+    {
+      "kanji": "烟",
+      "strokes": 10
+    },
+    {
+      "kanji": "烋",
+      "strokes": 10
+    },
+    {
+      "kanji": "烝",
+      "strokes": 10
+    },
+    {
+      "kanji": "烙",
+      "strokes": 10
+    },
+    {
+      "kanji": "焉",
+      "strokes": 11
+    },
+    {
+      "kanji": "烽",
+      "strokes": 11
+    },
+    {
+      "kanji": "焜",
+      "strokes": 12
+    },
+    {
+      "kanji": "焙",
+      "strokes": 12
+    },
+    {
+      "kanji": "煥",
+      "strokes": 13
+    },
+    {
+      "kanji": "煕",
+      "strokes": 13
+    },
+    {
+      "kanji": "熈",
+      "strokes": 15
+    },
+    {
+      "kanji": "煦",
+      "strokes": 13
+    },
+    {
+      "kanji": "煢",
+      "strokes": 13
+    },
+    {
+      "kanji": "煌",
+      "strokes": 13
+    },
+    {
+      "kanji": "煖",
+      "strokes": 13
+    },
+    {
+      "kanji": "煬",
+      "strokes": 13
+    },
+    {
+      "kanji": "熏",
+      "strokes": 14
+    },
+    {
+      "kanji": "燻",
+      "strokes": 18
+    },
+    {
+      "kanji": "熄",
+      "strokes": 14
+    },
+    {
+      "kanji": "熕",
+      "strokes": 14
+    },
+    {
+      "kanji": "熨",
+      "strokes": 15
+    },
+    {
+      "kanji": "熬",
+      "strokes": 15
+    },
+    {
+      "kanji": "燗",
+      "strokes": 16
+    },
+    {
+      "kanji": "熹",
+      "strokes": 16
+    },
+    {
+      "kanji": "熾",
+      "strokes": 16
+    },
+    {
+      "kanji": "燒",
+      "strokes": 16
+    },
+    {
+      "kanji": "燉",
+      "strokes": 16
+    },
+    {
+      "kanji": "燔",
+      "strokes": 16
+    },
+    {
+      "kanji": "燎",
+      "strokes": 16
+    },
+    {
+      "kanji": "燠",
+      "strokes": 17
+    },
+    {
+      "kanji": "燬",
+      "strokes": 17
+    },
+    {
+      "kanji": "燧",
+      "strokes": 17
+    },
+    {
+      "kanji": "燵",
+      "strokes": 17
+    },
+    {
+      "kanji": "燼",
+      "strokes": 18
+    },
+    {
+      "kanji": "燹",
+      "strokes": 18
+    },
+    {
+      "kanji": "燿",
+      "strokes": 18
+    },
+    {
+      "kanji": "爍",
+      "strokes": 19
+    },
+    {
+      "kanji": "爐",
+      "strokes": 20
+    },
+    {
+      "kanji": "爛",
+      "strokes": 21
+    },
+    {
+      "kanji": "爨",
+      "strokes": 29
+    },
+    {
+      "kanji": "爲",
+      "strokes": 12
+    },
+    {
+      "kanji": "牆",
+      "strokes": 17
+    },
+    {
+      "kanji": "牋",
+      "strokes": 12
+    },
+    {
+      "kanji": "牘",
+      "strokes": 19
+    },
+    {
+      "kanji": "牾",
+      "strokes": 11
+    },
+    {
+      "kanji": "犂",
+      "strokes": 12
+    },
+    {
+      "kanji": "犁",
+      "strokes": 11
+    },
+    {
+      "kanji": "犇",
+      "strokes": 12
+    },
+    {
+      "kanji": "犒",
+      "strokes": 14
+    },
+    {
+      "kanji": "犖",
+      "strokes": 14
+    },
+    {
+      "kanji": "犢",
+      "strokes": 19
+    },
+    {
+      "kanji": "犧",
+      "strokes": 20
+    },
+    {
+      "kanji": "狹",
+      "strokes": 10
+    },
+    {
+      "kanji": "狷",
+      "strokes": 10
+    },
+    {
+      "kanji": "倏",
+      "strokes": 10
+    },
+    {
+      "kanji": "猗",
+      "strokes": 11
+    },
+    {
+      "kanji": "猊",
+      "strokes": 11
+    },
+    {
+      "kanji": "猜",
+      "strokes": 11
+    },
+    {
+      "kanji": "猖",
+      "strokes": 11
+    },
+    {
+      "kanji": "猝",
+      "strokes": 11
+    },
+    {
+      "kanji": "猴",
+      "strokes": 12
+    },
+    {
+      "kanji": "猯",
+      "strokes": 12
+    },
+    {
+      "kanji": "猩",
+      "strokes": 12
+    },
+    {
+      "kanji": "猥",
+      "strokes": 12
+    },
+    {
+      "kanji": "猾",
+      "strokes": 13
+    },
+    {
+      "kanji": "獎",
+      "strokes": 15
+    },
+    {
+      "kanji": "獏",
+      "strokes": 13
+    },
+    {
+      "kanji": "默",
+      "strokes": 16
+    },
+    {
+      "kanji": "獗",
+      "strokes": 15
+    },
+    {
+      "kanji": "獪",
+      "strokes": 16
+    },
+    {
+      "kanji": "獨",
+      "strokes": 16
+    },
+    {
+      "kanji": "獰",
+      "strokes": 17
+    },
+    {
+      "kanji": "獸",
+      "strokes": 19
+    },
+    {
+      "kanji": "獵",
+      "strokes": 18
+    },
+    {
+      "kanji": "獻",
+      "strokes": 20
+    },
+    {
+      "kanji": "獺",
+      "strokes": 19
+    },
+    {
+      "kanji": "珥",
+      "strokes": 10
+    },
+    {
+      "kanji": "珮",
+      "strokes": 10
+    },
+    {
+      "kanji": "珞",
+      "strokes": 10
+    },
+    {
+      "kanji": "璢",
+      "strokes": 16
+    },
+    {
+      "kanji": "琅",
+      "strokes": 11
+    },
+    {
+      "kanji": "瑯",
+      "strokes": 14
+    },
+    {
+      "kanji": "琥",
+      "strokes": 12
+    },
+    {
+      "kanji": "珸",
+      "strokes": 11
+    },
+    {
+      "kanji": "琲",
+      "strokes": 12
+    },
+    {
+      "kanji": "琺",
+      "strokes": 12
+    },
+    {
+      "kanji": "瑕",
+      "strokes": 13
+    },
+    {
+      "kanji": "琿",
+      "strokes": 13
+    },
+    {
+      "kanji": "瑟",
+      "strokes": 13
+    },
+    {
+      "kanji": "瑙",
+      "strokes": 13
+    },
+    {
+      "kanji": "瑁",
+      "strokes": 13
+    },
+    {
+      "kanji": "瑜",
+      "strokes": 13
+    },
+    {
+      "kanji": "瑩",
+      "strokes": 15
+    },
+    {
+      "kanji": "瑰",
+      "strokes": 14
+    },
+    {
+      "kanji": "瑣",
+      "strokes": 14
+    },
+    {
+      "kanji": "瑪",
+      "strokes": 14
+    },
+    {
+      "kanji": "瑶",
+      "strokes": 13
+    },
+    {
+      "kanji": "瑾",
+      "strokes": 15
+    },
+    {
+      "kanji": "璋",
+      "strokes": 15
+    },
+    {
+      "kanji": "璞",
+      "strokes": 16
+    },
+    {
+      "kanji": "璧",
+      "strokes": 18
+    },
+    {
+      "kanji": "瓊",
+      "strokes": 18
+    },
+    {
+      "kanji": "瓏",
+      "strokes": 20
+    },
+    {
+      "kanji": "瓔",
+      "strokes": 21
+    },
+    {
+      "kanji": "珱",
+      "strokes": 10
+    },
+    {
+      "kanji": "瓠",
+      "strokes": 12
+    },
+    {
+      "kanji": "瓣",
+      "strokes": 20
+    },
+    {
+      "kanji": "瓸",
+      "strokes": 11
+    },
+    {
+      "kanji": "瓷",
+      "strokes": 11
+    },
+    {
+      "kanji": "甄",
+      "strokes": 14
+    },
+    {
+      "kanji": "甃",
+      "strokes": 14
+    },
+    {
+      "kanji": "甅",
+      "strokes": 14
+    },
+    {
+      "kanji": "甌",
+      "strokes": 16
+    },
+    {
+      "kanji": "甎",
+      "strokes": 16
+    },
+    {
+      "kanji": "甍",
+      "strokes": 15
+    },
+    {
+      "kanji": "甕",
+      "strokes": 18
+    },
+    {
+      "kanji": "甓",
+      "strokes": 18
+    },
+    {
+      "kanji": "甞",
+      "strokes": 13
+    },
+    {
+      "kanji": "甦",
+      "strokes": 12
+    },
+    {
+      "kanji": "畛",
+      "strokes": 10
+    },
+    {
+      "kanji": "畚",
+      "strokes": 10
+    },
+    {
+      "kanji": "畩",
+      "strokes": 11
+    },
+    {
+      "kanji": "畤",
+      "strokes": 11
+    },
+    {
+      "kanji": "畧",
+      "strokes": 11
+    },
+    {
+      "kanji": "畫",
+      "strokes": 12
+    },
+    {
+      "kanji": "畭",
+      "strokes": 12
+    },
+    {
+      "kanji": "畸",
+      "strokes": 13
+    },
+    {
+      "kanji": "當",
+      "strokes": 13
+    },
+    {
+      "kanji": "疆",
+      "strokes": 19
+    },
+    {
+      "kanji": "疇",
+      "strokes": 19
+    },
+    {
+      "kanji": "畴",
+      "strokes": 12
+    },
+    {
+      "kanji": "疊",
+      "strokes": 22
+    },
+    {
+      "kanji": "疉",
+      "strokes": 22
+    },
+    {
+      "kanji": "疂",
+      "strokes": 16
+    },
+    {
+      "kanji": "痂",
+      "strokes": 10
+    },
+    {
+      "kanji": "疳",
+      "strokes": 10
+    },
+    {
+      "kanji": "痃",
+      "strokes": 10
+    },
+    {
+      "kanji": "疵",
+      "strokes": 11
+    },
+    {
+      "kanji": "疽",
+      "strokes": 10
+    },
+    {
+      "kanji": "疸",
+      "strokes": 10
+    },
+    {
+      "kanji": "疼",
+      "strokes": 10
+    },
+    {
+      "kanji": "疱",
+      "strokes": 10
+    },
+    {
+      "kanji": "痍",
+      "strokes": 11
+    },
+    {
+      "kanji": "痊",
+      "strokes": 11
+    },
+    {
+      "kanji": "痒",
+      "strokes": 11
+    },
+    {
+      "kanji": "痙",
+      "strokes": 12
+    },
+    {
+      "kanji": "痣",
+      "strokes": 12
+    },
+    {
+      "kanji": "痞",
+      "strokes": 12
+    },
+    {
+      "kanji": "痾",
+      "strokes": 13
+    },
+    {
+      "kanji": "痿",
+      "strokes": 13
+    },
+    {
+      "kanji": "痼",
+      "strokes": 13
+    },
+    {
+      "kanji": "瘁",
+      "strokes": 13
+    },
+    {
+      "kanji": "痰",
+      "strokes": 13
+    },
+    {
+      "kanji": "痺",
+      "strokes": 13
+    },
+    {
+      "kanji": "痲",
+      "strokes": 13
+    },
+    {
+      "kanji": "痳",
+      "strokes": 13
+    },
+    {
+      "kanji": "瘋",
+      "strokes": 14
+    },
+    {
+      "kanji": "瘍",
+      "strokes": 14
+    },
+    {
+      "kanji": "瘉",
+      "strokes": 14
+    },
+    {
+      "kanji": "瘟",
+      "strokes": 15
+    },
+    {
+      "kanji": "瘧",
+      "strokes": 14
+    },
+    {
+      "kanji": "瘠",
+      "strokes": 15
+    },
+    {
+      "kanji": "瘡",
+      "strokes": 15
+    },
+    {
+      "kanji": "瘢",
+      "strokes": 15
+    },
+    {
+      "kanji": "瘤",
+      "strokes": 15
+    },
+    {
+      "kanji": "瘴",
+      "strokes": 16
+    },
+    {
+      "kanji": "瘰",
+      "strokes": 16
+    },
+    {
+      "kanji": "瘻",
+      "strokes": 16
+    },
+    {
+      "kanji": "癇",
+      "strokes": 17
+    },
+    {
+      "kanji": "癈",
+      "strokes": 17
+    },
+    {
+      "kanji": "癆",
+      "strokes": 17
+    },
+    {
+      "kanji": "癜",
+      "strokes": 18
+    },
+    {
+      "kanji": "癘",
+      "strokes": 17
+    },
+    {
+      "kanji": "癡",
+      "strokes": 19
+    },
+    {
+      "kanji": "癢",
+      "strokes": 20
+    },
+    {
+      "kanji": "癨",
+      "strokes": 21
+    },
+    {
+      "kanji": "癩",
+      "strokes": 21
+    },
+    {
+      "kanji": "癪",
+      "strokes": 21
+    },
+    {
+      "kanji": "癧",
+      "strokes": 21
+    },
+    {
+      "kanji": "癬",
+      "strokes": 22
+    },
+    {
+      "kanji": "癰",
+      "strokes": 23
+    },
+    {
+      "kanji": "癲",
+      "strokes": 24
+    },
+    {
+      "kanji": "發",
+      "strokes": 12
+    },
+    {
+      "kanji": "皋",
+      "strokes": 10
+    },
+    {
+      "kanji": "皎",
+      "strokes": 11
+    },
+    {
+      "kanji": "皖",
+      "strokes": 12
+    },
+    {
+      "kanji": "皙",
+      "strokes": 13
+    },
+    {
+      "kanji": "皚",
+      "strokes": 15
+    },
+    {
+      "kanji": "皰",
+      "strokes": 10
+    },
+    {
+      "kanji": "皴",
+      "strokes": 12
+    },
+    {
+      "kanji": "皸",
+      "strokes": 14
+    },
+    {
+      "kanji": "皹",
+      "strokes": 14
+    },
+    {
+      "kanji": "皺",
+      "strokes": 15
+    },
+    {
+      "kanji": "盍",
+      "strokes": 10
+    },
+    {
+      "kanji": "盖",
+      "strokes": 11
+    },
+    {
+      "kanji": "盒",
+      "strokes": 11
+    },
+    {
+      "kanji": "盞",
+      "strokes": 13
+    },
+    {
+      "kanji": "盡",
+      "strokes": 14
+    },
+    {
+      "kanji": "盥",
+      "strokes": 16
+    },
+    {
+      "kanji": "盧",
+      "strokes": 16
+    },
+    {
+      "kanji": "盪",
+      "strokes": 17
+    },
+    {
+      "kanji": "蘯",
+      "strokes": 20
+    },
+    {
+      "kanji": "眩",
+      "strokes": 10
+    },
+    {
+      "kanji": "眤",
+      "strokes": 10
+    },
+    {
+      "kanji": "眞",
+      "strokes": 10
+    },
+    {
+      "kanji": "眥",
+      "strokes": 11
+    },
+    {
+      "kanji": "眦",
+      "strokes": 11
+    },
+    {
+      "kanji": "眛",
+      "strokes": 10
+    },
+    {
+      "kanji": "眷",
+      "strokes": 11
+    },
+    {
+      "kanji": "眸",
+      "strokes": 11
+    },
+    {
+      "kanji": "睇",
+      "strokes": 12
+    },
+    {
+      "kanji": "睚",
+      "strokes": 13
+    },
+    {
+      "kanji": "睨",
+      "strokes": 13
+    },
+    {
+      "kanji": "睫",
+      "strokes": 13
+    },
+    {
+      "kanji": "睛",
+      "strokes": 13
+    },
+    {
+      "kanji": "睥",
+      "strokes": 13
+    },
+    {
+      "kanji": "睿",
+      "strokes": 14
+    },
+    {
+      "kanji": "睾",
+      "strokes": 14
+    },
+    {
+      "kanji": "睹",
+      "strokes": 14
+    },
+    {
+      "kanji": "瞎",
+      "strokes": 15
+    },
+    {
+      "kanji": "瞋",
+      "strokes": 15
+    },
+    {
+      "kanji": "瞑",
+      "strokes": 15
+    },
+    {
+      "kanji": "瞠",
+      "strokes": 16
+    },
+    {
+      "kanji": "瞞",
+      "strokes": 16
+    },
+    {
+      "kanji": "瞰",
+      "strokes": 17
+    },
+    {
+      "kanji": "瞶",
+      "strokes": 17
+    },
+    {
+      "kanji": "瞹",
+      "strokes": 18
+    },
+    {
+      "kanji": "瞿",
+      "strokes": 18
+    },
+    {
+      "kanji": "瞼",
+      "strokes": 18
+    },
+    {
+      "kanji": "瞽",
+      "strokes": 18
+    },
+    {
+      "kanji": "瞻",
+      "strokes": 18
+    },
+    {
+      "kanji": "矇",
+      "strokes": 18
+    },
+    {
+      "kanji": "矍",
+      "strokes": 20
+    },
+    {
+      "kanji": "矗",
+      "strokes": 24
+    },
+    {
+      "kanji": "矚",
+      "strokes": 26
+    },
+    {
+      "kanji": "矮",
+      "strokes": 13
+    },
+    {
+      "kanji": "礦",
+      "strokes": 20
+    },
+    {
+      "kanji": "砠",
+      "strokes": 10
+    },
+    {
+      "kanji": "礪",
+      "strokes": 19
+    },
+    {
+      "kanji": "硅",
+      "strokes": 11
+    },
+    {
+      "kanji": "碎",
+      "strokes": 13
+    },
+    {
+      "kanji": "硴",
+      "strokes": 12
+    },
+    {
+      "kanji": "碆",
+      "strokes": 13
+    },
+    {
+      "kanji": "硼",
+      "strokes": 13
+    },
+    {
+      "kanji": "碚",
+      "strokes": 13
+    },
+    {
+      "kanji": "碌",
+      "strokes": 13
+    },
+    {
+      "kanji": "碣",
+      "strokes": 14
+    },
+    {
+      "kanji": "碵",
+      "strokes": 14
+    },
+    {
+      "kanji": "碪",
+      "strokes": 14
+    },
+    {
+      "kanji": "碯",
+      "strokes": 14
+    },
+    {
+      "kanji": "磑",
+      "strokes": 15
+    },
+    {
+      "kanji": "磆",
+      "strokes": 15
+    },
+    {
+      "kanji": "磋",
+      "strokes": 15
+    },
+    {
+      "kanji": "磔",
+      "strokes": 16
+    },
+    {
+      "kanji": "碾",
+      "strokes": 15
+    },
+    {
+      "kanji": "碼",
+      "strokes": 15
+    },
+    {
+      "kanji": "磅",
+      "strokes": 15
+    },
+    {
+      "kanji": "磊",
+      "strokes": 15
+    },
+    {
+      "kanji": "磬",
+      "strokes": 16
+    },
+    {
+      "kanji": "磧",
+      "strokes": 16
+    },
+    {
+      "kanji": "磚",
+      "strokes": 16
+    },
+    {
+      "kanji": "磽",
+      "strokes": 17
+    },
+    {
+      "kanji": "磴",
+      "strokes": 17
+    },
+    {
+      "kanji": "礇",
+      "strokes": 18
+    },
+    {
+      "kanji": "礒",
+      "strokes": 18
+    },
+    {
+      "kanji": "礑",
+      "strokes": 18
+    },
+    {
+      "kanji": "礙",
+      "strokes": 19
+    },
+    {
+      "kanji": "礬",
+      "strokes": 20
+    },
+    {
+      "kanji": "礫",
+      "strokes": 20
+    },
+    {
+      "kanji": "祠",
+      "strokes": 10
+    },
+    {
+      "kanji": "祗",
+      "strokes": 10
+    },
+    {
+      "kanji": "祟",
+      "strokes": 10
+    },
+    {
+      "kanji": "祚",
+      "strokes": 10
+    },
+    {
+      "kanji": "祕",
+      "strokes": 10
+    },
+    {
+      "kanji": "祺",
+      "strokes": 13
+    },
+    {
+      "kanji": "祿",
+      "strokes": 13
+    },
+    {
+      "kanji": "禊",
+      "strokes": 14
+    },
+    {
+      "kanji": "禝",
+      "strokes": 15
+    },
+    {
+      "kanji": "禧",
+      "strokes": 17
+    },
+    {
+      "kanji": "齋",
+      "strokes": 17
+    },
+    {
+      "kanji": "禪",
+      "strokes": 17
+    },
+    {
+      "kanji": "禮",
+      "strokes": 18
+    },
+    {
+      "kanji": "禳",
+      "strokes": 22
+    },
+    {
+      "kanji": "秧",
+      "strokes": 10
+    },
+    {
+      "kanji": "秬",
+      "strokes": 10
+    },
+    {
+      "kanji": "秡",
+      "strokes": 10
+    },
+    {
+      "kanji": "秣",
+      "strokes": 10
+    },
+    {
+      "kanji": "稈",
+      "strokes": 12
+    },
+    {
+      "kanji": "稍",
+      "strokes": 12
+    },
+    {
+      "kanji": "稘",
+      "strokes": 13
+    },
+    {
+      "kanji": "稙",
+      "strokes": 13
+    },
+    {
+      "kanji": "稠",
+      "strokes": 13
+    },
+    {
+      "kanji": "稟",
+      "strokes": 13
+    },
+    {
+      "kanji": "禀",
+      "strokes": 13
+    },
+    {
+      "kanji": "稱",
+      "strokes": 14
+    },
+    {
+      "kanji": "稻",
+      "strokes": 15
+    },
+    {
+      "kanji": "稾",
+      "strokes": 15
+    },
+    {
+      "kanji": "稷",
+      "strokes": 15
+    },
+    {
+      "kanji": "穃",
+      "strokes": 15
+    },
+    {
+      "kanji": "穗",
+      "strokes": 17
+    },
+    {
+      "kanji": "穉",
+      "strokes": 17
+    },
+    {
+      "kanji": "穡",
+      "strokes": 18
+    },
+    {
+      "kanji": "穢",
+      "strokes": 18
+    },
+    {
+      "kanji": "穩",
+      "strokes": 19
+    },
+    {
+      "kanji": "龝",
+      "strokes": 21
+    },
+    {
+      "kanji": "穰",
+      "strokes": 22
+    },
+    {
+      "kanji": "窈",
+      "strokes": 10
+    },
+    {
+      "kanji": "窗",
+      "strokes": 12
+    },
+    {
+      "kanji": "窕",
+      "strokes": 11
+    },
+    {
+      "kanji": "窘",
+      "strokes": 12
+    },
+    {
+      "kanji": "窖",
+      "strokes": 12
+    },
+    {
+      "kanji": "窩",
+      "strokes": 14
+    },
+    {
+      "kanji": "竈",
+      "strokes": 21
+    },
+    {
+      "kanji": "窰",
+      "strokes": 15
+    },
+    {
+      "kanji": "窶",
+      "strokes": 16
+    },
+    {
+      "kanji": "竅",
+      "strokes": 18
+    },
+    {
+      "kanji": "竄",
+      "strokes": 18
+    },
+    {
+      "kanji": "窿",
+      "strokes": 16
+    },
+    {
+      "kanji": "邃",
+      "strokes": 18
+    },
+    {
+      "kanji": "竇",
+      "strokes": 20
+    },
+    {
+      "kanji": "竊",
+      "strokes": 22
+    },
+    {
+      "kanji": "站",
+      "strokes": 10
+    },
+    {
+      "kanji": "竚",
+      "strokes": 10
+    },
+    {
+      "kanji": "竝",
+      "strokes": 10
+    },
+    {
+      "kanji": "竡",
+      "strokes": 11
+    },
+    {
+      "kanji": "竢",
+      "strokes": 12
+    },
+    {
+      "kanji": "竦",
+      "strokes": 12
+    },
+    {
+      "kanji": "竭",
+      "strokes": 14
+    },
+    {
+      "kanji": "竰",
+      "strokes": 14
+    },
+    {
+      "kanji": "笏",
+      "strokes": 10
+    },
+    {
+      "kanji": "笊",
+      "strokes": 10
+    },
+    {
+      "kanji": "笆",
+      "strokes": 10
+    },
+    {
+      "kanji": "笳",
+      "strokes": 11
+    },
+    {
+      "kanji": "笘",
+      "strokes": 11
+    },
+    {
+      "kanji": "笙",
+      "strokes": 11
+    },
+    {
+      "kanji": "笞",
+      "strokes": 11
+    },
+    {
+      "kanji": "笵",
+      "strokes": 11
+    },
+    {
+      "kanji": "笨",
+      "strokes": 11
+    },
+    {
+      "kanji": "笶",
+      "strokes": 11
+    },
+    {
+      "kanji": "筐",
+      "strokes": 12
+    },
+    {
+      "kanji": "筺",
+      "strokes": 13
+    },
+    {
+      "kanji": "笄",
+      "strokes": 10
+    },
+    {
+      "kanji": "筍",
+      "strokes": 12
+    },
+    {
+      "kanji": "笋",
+      "strokes": 10
+    },
+    {
+      "kanji": "筌",
+      "strokes": 12
+    },
+    {
+      "kanji": "筅",
+      "strokes": 12
+    },
+    {
+      "kanji": "筵",
+      "strokes": 13
+    },
+    {
+      "kanji": "筥",
+      "strokes": 13
+    },
+    {
+      "kanji": "筴",
+      "strokes": 13
+    },
+    {
+      "kanji": "筧",
+      "strokes": 13
+    },
+    {
+      "kanji": "筰",
+      "strokes": 13
+    },
+    {
+      "kanji": "筱",
+      "strokes": 13
+    },
+    {
+      "kanji": "筬",
+      "strokes": 13
+    },
+    {
+      "kanji": "筮",
+      "strokes": 13
+    },
+    {
+      "kanji": "箝",
+      "strokes": 14
+    },
+    {
+      "kanji": "箘",
+      "strokes": 14
+    },
+    {
+      "kanji": "箟",
+      "strokes": 14
+    },
+    {
+      "kanji": "箍",
+      "strokes": 14
+    },
+    {
+      "kanji": "箜",
+      "strokes": 14
+    },
+    {
+      "kanji": "箚",
+      "strokes": 14
+    },
+    {
+      "kanji": "箋",
+      "strokes": 14
+    },
+    {
+      "kanji": "箒",
+      "strokes": 14
+    },
+    {
+      "kanji": "箏",
+      "strokes": 14
+    },
+    {
+      "kanji": "筝",
+      "strokes": 12
+    },
+    {
+      "kanji": "箙",
+      "strokes": 14
+    },
+    {
+      "kanji": "篋",
+      "strokes": 15
+    },
+    {
+      "kanji": "篁",
+      "strokes": 15
+    },
+    {
+      "kanji": "篌",
+      "strokes": 15
+    },
+    {
+      "kanji": "篏",
+      "strokes": 15
+    },
+    {
+      "kanji": "箴",
+      "strokes": 15
+    },
+    {
+      "kanji": "篆",
+      "strokes": 15
+    },
+    {
+      "kanji": "篝",
+      "strokes": 16
+    },
+    {
+      "kanji": "篩",
+      "strokes": 16
+    },
+    {
+      "kanji": "簑",
+      "strokes": 16
+    },
+    {
+      "kanji": "簔",
+      "strokes": 17
+    },
+    {
+      "kanji": "篦",
+      "strokes": 16
+    },
+    {
+      "kanji": "篥",
+      "strokes": 16
+    },
+    {
+      "kanji": "籠",
+      "strokes": 22
+    },
+    {
+      "kanji": "簀",
+      "strokes": 17
+    },
+    {
+      "kanji": "簇",
+      "strokes": 17
+    },
+    {
+      "kanji": "簓",
+      "strokes": 17
+    },
+    {
+      "kanji": "篳",
+      "strokes": 17
+    },
+    {
+      "kanji": "篷",
+      "strokes": 17
+    },
+    {
+      "kanji": "簗",
+      "strokes": 17
+    },
+    {
+      "kanji": "簍",
+      "strokes": 17
+    },
+    {
+      "kanji": "篶",
+      "strokes": 17
+    },
+    {
+      "kanji": "簣",
+      "strokes": 18
+    },
+    {
+      "kanji": "簧",
+      "strokes": 18
+    },
+    {
+      "kanji": "簪",
+      "strokes": 20
+    },
+    {
+      "kanji": "簟",
+      "strokes": 18
+    },
+    {
+      "kanji": "簷",
+      "strokes": 19
+    },
+    {
+      "kanji": "簫",
+      "strokes": 19
+    },
+    {
+      "kanji": "簽",
+      "strokes": 19
+    },
+    {
+      "kanji": "籌",
+      "strokes": 20
+    },
+    {
+      "kanji": "籃",
+      "strokes": 21
+    },
+    {
+      "kanji": "籔",
+      "strokes": 21
+    },
+    {
+      "kanji": "籏",
+      "strokes": 20
+    },
+    {
+      "kanji": "籀",
+      "strokes": 19
+    },
+    {
+      "kanji": "籐",
+      "strokes": 21
+    },
+    {
+      "kanji": "籘",
+      "strokes": 22
+    },
+    {
+      "kanji": "籟",
+      "strokes": 22
+    },
+    {
+      "kanji": "籤",
+      "strokes": 23
+    },
+    {
+      "kanji": "籖",
+      "strokes": 21
+    },
+    {
+      "kanji": "籥",
+      "strokes": 23
+    },
+    {
+      "kanji": "籬",
+      "strokes": 25
+    },
+    {
+      "kanji": "粃",
+      "strokes": 10
+    },
+    {
+      "kanji": "粐",
+      "strokes": 10
+    },
+    {
+      "kanji": "粤",
+      "strokes": 12
+    },
+    {
+      "kanji": "粭",
+      "strokes": 12
+    },
+    {
+      "kanji": "粢",
+      "strokes": 12
+    },
+    {
+      "kanji": "粫",
+      "strokes": 12
+    },
+    {
+      "kanji": "粡",
+      "strokes": 12
+    },
+    {
+      "kanji": "粨",
+      "strokes": 12
+    },
+    {
+      "kanji": "粳",
+      "strokes": 13
+    },
+    {
+      "kanji": "粲",
+      "strokes": 13
+    },
+    {
+      "kanji": "粱",
+      "strokes": 13
+    },
+    {
+      "kanji": "粮",
+      "strokes": 13
+    },
+    {
+      "kanji": "粹",
+      "strokes": 14
+    },
+    {
+      "kanji": "粽",
+      "strokes": 14
+    },
+    {
+      "kanji": "糀",
+      "strokes": 13
+    },
+    {
+      "kanji": "糅",
+      "strokes": 15
+    },
+    {
+      "kanji": "糂",
+      "strokes": 15
+    },
+    {
+      "kanji": "糘",
+      "strokes": 16
+    },
+    {
+      "kanji": "糒",
+      "strokes": 16
+    },
+    {
+      "kanji": "糜",
+      "strokes": 17
+    },
+    {
+      "kanji": "糢",
+      "strokes": 16
+    },
+    {
+      "kanji": "鬻",
+      "strokes": 22
+    },
+    {
+      "kanji": "糯",
+      "strokes": 20
+    },
+    {
+      "kanji": "糲",
+      "strokes": 20
+    },
+    {
+      "kanji": "糴",
+      "strokes": 22
+    },
+    {
+      "kanji": "糶",
+      "strokes": 25
+    },
+    {
+      "kanji": "紜",
+      "strokes": 10
+    },
+    {
+      "kanji": "紕",
+      "strokes": 10
+    },
+    {
+      "kanji": "紊",
+      "strokes": 10
+    },
+    {
+      "kanji": "絅",
+      "strokes": 11
+    },
+    {
+      "kanji": "絋",
+      "strokes": 11
+    },
+    {
+      "kanji": "紮",
+      "strokes": 11
+    },
+    {
+      "kanji": "紲",
+      "strokes": 11
+    },
+    {
+      "kanji": "紿",
+      "strokes": 11
+    },
+    {
+      "kanji": "紵",
+      "strokes": 11
+    },
+    {
+      "kanji": "絆",
+      "strokes": 11
+    },
+    {
+      "kanji": "絳",
+      "strokes": 13
+    },
+    {
+      "kanji": "絖",
+      "strokes": 12
+    },
+    {
+      "kanji": "絎",
+      "strokes": 12
+    },
+    {
+      "kanji": "絲",
+      "strokes": 12
+    },
+    {
+      "kanji": "絨",
+      "strokes": 12
+    },
+    {
+      "kanji": "絮",
+      "strokes": 12
+    },
+    {
+      "kanji": "絏",
+      "strokes": 12
+    },
+    {
+      "kanji": "絣",
+      "strokes": 12
+    },
+    {
+      "kanji": "經",
+      "strokes": 13
+    },
+    {
+      "kanji": "綉",
+      "strokes": 13
+    },
+    {
+      "kanji": "絛",
+      "strokes": 13
+    },
+    {
+      "kanji": "綏",
+      "strokes": 13
+    },
+    {
+      "kanji": "絽",
+      "strokes": 13
+    },
+    {
+      "kanji": "綛",
+      "strokes": 13
+    },
+    {
+      "kanji": "綺",
+      "strokes": 14
+    },
+    {
+      "kanji": "綮",
+      "strokes": 14
+    },
+    {
+      "kanji": "綣",
+      "strokes": 14
+    },
+    {
+      "kanji": "綵",
+      "strokes": 14
+    },
+    {
+      "kanji": "緇",
+      "strokes": 14
+    },
+    {
+      "kanji": "綽",
+      "strokes": 14
+    },
+    {
+      "kanji": "綫",
+      "strokes": 14
+    },
+    {
+      "kanji": "總",
+      "strokes": 17
+    },
+    {
+      "kanji": "綢",
+      "strokes": 14
+    },
+    {
+      "kanji": "綯",
+      "strokes": 14
+    },
+    {
+      "kanji": "緜",
+      "strokes": 15
+    },
+    {
+      "kanji": "綸",
+      "strokes": 14
+    },
+    {
+      "kanji": "綟",
+      "strokes": 13
+    },
+    {
+      "kanji": "綰",
+      "strokes": 14
+    },
+    {
+      "kanji": "緘",
+      "strokes": 15
+    },
+    {
+      "kanji": "緝",
+      "strokes": 15
+    },
+    {
+      "kanji": "緤",
+      "strokes": 15
+    },
+    {
+      "kanji": "緞",
+      "strokes": 15
+    },
+    {
+      "kanji": "緻",
+      "strokes": 16
+    },
+    {
+      "kanji": "緲",
+      "strokes": 15
+    },
+    {
+      "kanji": "緡",
+      "strokes": 15
+    },
+    {
+      "kanji": "縅",
+      "strokes": 15
+    },
+    {
+      "kanji": "縊",
+      "strokes": 16
+    },
+    {
+      "kanji": "縣",
+      "strokes": 16
+    },
+    {
+      "kanji": "縡",
+      "strokes": 16
+    },
+    {
+      "kanji": "縒",
+      "strokes": 16
+    },
+    {
+      "kanji": "縱",
+      "strokes": 17
+    },
+    {
+      "kanji": "縟",
+      "strokes": 16
+    },
+    {
+      "kanji": "縉",
+      "strokes": 16
+    },
+    {
+      "kanji": "縋",
+      "strokes": 15
+    },
+    {
+      "kanji": "縢",
+      "strokes": 16
+    },
+    {
+      "kanji": "繆",
+      "strokes": 17
+    },
+    {
+      "kanji": "繦",
+      "strokes": 17
+    },
+    {
+      "kanji": "縻",
+      "strokes": 17
+    },
+    {
+      "kanji": "縵",
+      "strokes": 17
+    },
+    {
+      "kanji": "縹",
+      "strokes": 17
+    },
+    {
+      "kanji": "繃",
+      "strokes": 17
+    },
+    {
+      "kanji": "縷",
+      "strokes": 17
+    },
+    {
+      "kanji": "縲",
+      "strokes": 17
+    },
+    {
+      "kanji": "縺",
+      "strokes": 17
+    },
+    {
+      "kanji": "繧",
+      "strokes": 18
+    },
+    {
+      "kanji": "繝",
+      "strokes": 18
+    },
+    {
+      "kanji": "繖",
+      "strokes": 18
+    },
+    {
+      "kanji": "繞",
+      "strokes": 18
+    },
+    {
+      "kanji": "繙",
+      "strokes": 18
+    },
+    {
+      "kanji": "繚",
+      "strokes": 18
+    },
+    {
+      "kanji": "繹",
+      "strokes": 19
+    },
+    {
+      "kanji": "繪",
+      "strokes": 19
+    },
+    {
+      "kanji": "繩",
+      "strokes": 19
+    },
+    {
+      "kanji": "繼",
+      "strokes": 20
+    },
+    {
+      "kanji": "繻",
+      "strokes": 20
+    },
+    {
+      "kanji": "纃",
+      "strokes": 20
+    },
+    {
+      "kanji": "緕",
+      "strokes": 14
+    },
+    {
+      "kanji": "繽",
+      "strokes": 20
+    },
+    {
+      "kanji": "辮",
+      "strokes": 20
+    },
+    {
+      "kanji": "繿",
+      "strokes": 21
+    },
+    {
+      "kanji": "纈",
+      "strokes": 21
+    },
+    {
+      "kanji": "纉",
+      "strokes": 21
+    },
+    {
+      "kanji": "續",
+      "strokes": 21
+    },
+    {
+      "kanji": "纒",
+      "strokes": 22
+    },
+    {
+      "kanji": "纐",
+      "strokes": 21
+    },
+    {
+      "kanji": "纓",
+      "strokes": 23
+    },
+    {
+      "kanji": "纔",
+      "strokes": 23
+    },
+    {
+      "kanji": "纖",
+      "strokes": 23
+    },
+    {
+      "kanji": "纎",
+      "strokes": 21
+    },
+    {
+      "kanji": "纛",
+      "strokes": 25
+    },
+    {
+      "kanji": "纜",
+      "strokes": 28
+    },
+    {
+      "kanji": "缺",
+      "strokes": 10
+    },
+    {
+      "kanji": "罅",
+      "strokes": 17
+    },
+    {
+      "kanji": "罌",
+      "strokes": 20
+    },
+    {
+      "kanji": "罍",
+      "strokes": 21
+    },
+    {
+      "kanji": "罎",
+      "strokes": 22
+    },
+    {
+      "kanji": "罐",
+      "strokes": 23
+    },
+    {
+      "kanji": "罟",
+      "strokes": 10
+    },
+    {
+      "kanji": "罠",
+      "strokes": 10
+    },
+    {
+      "kanji": "罨",
+      "strokes": 13
+    },
+    {
+      "kanji": "罩",
+      "strokes": 13
+    },
+    {
+      "kanji": "罧",
+      "strokes": 13
+    },
+    {
+      "kanji": "罸",
+      "strokes": 15
+    },
+    {
+      "kanji": "羂",
+      "strokes": 18
+    },
+    {
+      "kanji": "羆",
+      "strokes": 19
+    },
+    {
+      "kanji": "羃",
+      "strokes": 18
+    },
+    {
+      "kanji": "羈",
+      "strokes": 24
+    },
+    {
+      "kanji": "羇",
+      "strokes": 22
+    },
+    {
+      "kanji": "羔",
+      "strokes": 10
+    },
+    {
+      "kanji": "羞",
+      "strokes": 11
+    },
+    {
+      "kanji": "羝",
+      "strokes": 11
+    },
+    {
+      "kanji": "羚",
+      "strokes": 11
+    },
+    {
+      "kanji": "羣",
+      "strokes": 13
+    },
+    {
+      "kanji": "羯",
+      "strokes": 15
+    },
+    {
+      "kanji": "羲",
+      "strokes": 16
+    },
+    {
+      "kanji": "羹",
+      "strokes": 19
+    },
+    {
+      "kanji": "羮",
+      "strokes": 15
+    },
+    {
+      "kanji": "羶",
+      "strokes": 19
+    },
+    {
+      "kanji": "羸",
+      "strokes": 19
+    },
+    {
+      "kanji": "譱",
+      "strokes": 20
+    },
+    {
+      "kanji": "翅",
+      "strokes": 10
+    },
+    {
+      "kanji": "翆",
+      "strokes": 10
+    },
+    {
+      "kanji": "翊",
+      "strokes": 11
+    },
+    {
+      "kanji": "翕",
+      "strokes": 12
+    },
+    {
+      "kanji": "翔",
+      "strokes": 12
+    },
+    {
+      "kanji": "翡",
+      "strokes": 14
+    },
+    {
+      "kanji": "翦",
+      "strokes": 15
+    },
+    {
+      "kanji": "翩",
+      "strokes": 15
+    },
+    {
+      "kanji": "翳",
+      "strokes": 17
+    },
+    {
+      "kanji": "翹",
+      "strokes": 18
+    },
+    {
+      "kanji": "飜",
+      "strokes": 21
+    },
+    {
+      "kanji": "耆",
+      "strokes": 10
+    },
+    {
+      "kanji": "耄",
+      "strokes": 10
+    },
+    {
+      "kanji": "耋",
+      "strokes": 12
+    },
+    {
+      "kanji": "耘",
+      "strokes": 10
+    },
+    {
+      "kanji": "耙",
+      "strokes": 10
+    },
+    {
+      "kanji": "耜",
+      "strokes": 11
+    },
+    {
+      "kanji": "耡",
+      "strokes": 13
+    },
+    {
+      "kanji": "耨",
+      "strokes": 16
+    },
+    {
+      "kanji": "耻",
+      "strokes": 10
+    },
+    {
+      "kanji": "聊",
+      "strokes": 11
+    },
+    {
+      "kanji": "聆",
+      "strokes": 11
+    },
+    {
+      "kanji": "聒",
+      "strokes": 12
+    },
+    {
+      "kanji": "聘",
+      "strokes": 13
+    },
+    {
+      "kanji": "聚",
+      "strokes": 14
+    },
+    {
+      "kanji": "聟",
+      "strokes": 14
+    },
+    {
+      "kanji": "聢",
+      "strokes": 14
+    },
+    {
+      "kanji": "聨",
+      "strokes": 15
+    },
+    {
+      "kanji": "聳",
+      "strokes": 17
+    },
+    {
+      "kanji": "聲",
+      "strokes": 17
+    },
+    {
+      "kanji": "聰",
+      "strokes": 17
+    },
+    {
+      "kanji": "聶",
+      "strokes": 18
+    },
+    {
+      "kanji": "聹",
+      "strokes": 20
+    },
+    {
+      "kanji": "聽",
+      "strokes": 22
+    },
+    {
+      "kanji": "肄",
+      "strokes": 13
+    },
+    {
+      "kanji": "肆",
+      "strokes": 13
+    },
+    {
+      "kanji": "肅",
+      "strokes": 13
+    },
+    {
+      "kanji": "胯",
+      "strokes": 10
+    },
+    {
+      "kanji": "胱",
+      "strokes": 10
+    },
+    {
+      "kanji": "脛",
+      "strokes": 11
+    },
+    {
+      "kanji": "脩",
+      "strokes": 11
+    },
+    {
+      "kanji": "脣",
+      "strokes": 11
+    },
+    {
+      "kanji": "脯",
+      "strokes": 11
+    },
+    {
+      "kanji": "腋",
+      "strokes": 12
+    },
+    {
+      "kanji": "隋",
+      "strokes": 12
+    },
+    {
+      "kanji": "腆",
+      "strokes": 12
+    },
+    {
+      "kanji": "脾",
+      "strokes": 12
+    },
+    {
+      "kanji": "腓",
+      "strokes": 12
+    },
+    {
+      "kanji": "腑",
+      "strokes": 12
+    },
+    {
+      "kanji": "胼",
+      "strokes": 10
+    },
+    {
+      "kanji": "腱",
+      "strokes": 13
+    },
+    {
+      "kanji": "腮",
+      "strokes": 13
+    },
+    {
+      "kanji": "腥",
+      "strokes": 13
+    },
+    {
+      "kanji": "腦",
+      "strokes": 13
+    },
+    {
+      "kanji": "腴",
+      "strokes": 13
+    },
+    {
+      "kanji": "膃",
+      "strokes": 14
+    },
+    {
+      "kanji": "膈",
+      "strokes": 14
+    },
+    {
+      "kanji": "膊",
+      "strokes": 14
+    },
+    {
+      "kanji": "膀",
+      "strokes": 14
+    },
+    {
+      "kanji": "膂",
+      "strokes": 14
+    },
+    {
+      "kanji": "膠",
+      "strokes": 15
+    },
+    {
+      "kanji": "膕",
+      "strokes": 15
+    },
+    {
+      "kanji": "膤",
+      "strokes": 15
+    },
+    {
+      "kanji": "膣",
+      "strokes": 15
+    },
+    {
+      "kanji": "腟",
+      "strokes": 13
+    },
+    {
+      "kanji": "膓",
+      "strokes": 15
+    },
+    {
+      "kanji": "膩",
+      "strokes": 16
+    },
+    {
+      "kanji": "膰",
+      "strokes": 16
+    },
+    {
+      "kanji": "膵",
+      "strokes": 15
+    },
+    {
+      "kanji": "膾",
+      "strokes": 17
+    },
+    {
+      "kanji": "膸",
+      "strokes": 17
+    },
+    {
+      "kanji": "膽",
+      "strokes": 17
+    },
+    {
+      "kanji": "臀",
+      "strokes": 17
+    },
+    {
+      "kanji": "臂",
+      "strokes": 17
+    },
+    {
+      "kanji": "膺",
+      "strokes": 17
+    },
+    {
+      "kanji": "臉",
+      "strokes": 17
+    },
+    {
+      "kanji": "臍",
+      "strokes": 18
+    },
+    {
+      "kanji": "臑",
+      "strokes": 18
+    },
+    {
+      "kanji": "臙",
+      "strokes": 20
+    },
+    {
+      "kanji": "臘",
+      "strokes": 19
+    },
+    {
+      "kanji": "臈",
+      "strokes": 16
+    },
+    {
+      "kanji": "臚",
+      "strokes": 20
+    },
+    {
+      "kanji": "臟",
+      "strokes": 22
+    },
+    {
+      "kanji": "臠",
+      "strokes": 25
+    },
+    {
+      "kanji": "臧",
+      "strokes": 15
+    },
+    {
+      "kanji": "臺",
+      "strokes": 14
+    },
+    {
+      "kanji": "臻",
+      "strokes": 16
+    },
+    {
+      "kanji": "舂",
+      "strokes": 11
+    },
+    {
+      "kanji": "舅",
+      "strokes": 13
+    },
+    {
+      "kanji": "與",
+      "strokes": 13
+    },
+    {
+      "kanji": "舊",
+      "strokes": 17
+    },
+    {
+      "kanji": "舐",
+      "strokes": 10
+    },
+    {
+      "kanji": "舖",
+      "strokes": 15
+    },
+    {
+      "kanji": "舩",
+      "strokes": 10
+    },
+    {
+      "kanji": "舫",
+      "strokes": 10
+    },
+    {
+      "kanji": "舸",
+      "strokes": 11
+    },
+    {
+      "kanji": "舳",
+      "strokes": 11
+    },
+    {
+      "kanji": "艀",
+      "strokes": 13
+    },
+    {
+      "kanji": "艙",
+      "strokes": 16
+    },
+    {
+      "kanji": "艘",
+      "strokes": 16
+    },
+    {
+      "kanji": "艝",
+      "strokes": 17
+    },
+    {
+      "kanji": "艚",
+      "strokes": 17
+    },
+    {
+      "kanji": "艟",
+      "strokes": 18
+    },
+    {
+      "kanji": "艤",
+      "strokes": 19
+    },
+    {
+      "kanji": "艢",
+      "strokes": 19
+    },
+    {
+      "kanji": "艨",
+      "strokes": 19
+    },
+    {
+      "kanji": "艪",
+      "strokes": 21
+    },
+    {
+      "kanji": "艫",
+      "strokes": 22
+    },
+    {
+      "kanji": "舮",
+      "strokes": 10
+    },
+    {
+      "kanji": "艱",
+      "strokes": 17
+    },
+    {
+      "kanji": "艷",
+      "strokes": 24
+    },
+    {
+      "kanji": "芻",
+      "strokes": 10
+    },
+    {
+      "kanji": "莓",
+      "strokes": 10
+    },
+    {
+      "kanji": "莅",
+      "strokes": 10
+    },
+    {
+      "kanji": "莚",
+      "strokes": 10
+    },
+    {
+      "kanji": "莪",
+      "strokes": 10
+    },
+    {
+      "kanji": "莟",
+      "strokes": 10
+    },
+    {
+      "kanji": "莢",
+      "strokes": 10
+    },
+    {
+      "kanji": "莖",
+      "strokes": 10
+    },
+    {
+      "kanji": "茣",
+      "strokes": 10
+    },
+    {
+      "kanji": "莎",
+      "strokes": 10
+    },
+    {
+      "kanji": "莇",
+      "strokes": 10
+    },
+    {
+      "kanji": "莊",
+      "strokes": 10
+    },
+    {
+      "kanji": "荼",
+      "strokes": 10
+    },
+    {
+      "kanji": "莵",
+      "strokes": 10
+    },
+    {
+      "kanji": "荳",
+      "strokes": 10
+    },
+    {
+      "kanji": "荵",
+      "strokes": 10
+    },
+    {
+      "kanji": "莠",
+      "strokes": 10
+    },
+    {
+      "kanji": "莉",
+      "strokes": 10
+    },
+    {
+      "kanji": "莨",
+      "strokes": 10
+    },
+    {
+      "kanji": "菴",
+      "strokes": 11
+    },
+    {
+      "kanji": "萓",
+      "strokes": 11
+    },
+    {
+      "kanji": "菫",
+      "strokes": 11
+    },
+    {
+      "kanji": "菎",
+      "strokes": 11
+    },
+    {
+      "kanji": "菽",
+      "strokes": 11
+    },
+    {
+      "kanji": "萃",
+      "strokes": 11
+    },
+    {
+      "kanji": "菘",
+      "strokes": 11
+    },
+    {
+      "kanji": "萋",
+      "strokes": 11
+    },
+    {
+      "kanji": "菁",
+      "strokes": 11
+    },
+    {
+      "kanji": "菷",
+      "strokes": 11
+    },
+    {
+      "kanji": "萇",
+      "strokes": 11
+    },
+    {
+      "kanji": "菠",
+      "strokes": 11
+    },
+    {
+      "kanji": "菲",
+      "strokes": 11
+    },
+    {
+      "kanji": "萍",
+      "strokes": 11
+    },
+    {
+      "kanji": "萢",
+      "strokes": 11
+    },
+    {
+      "kanji": "萠",
+      "strokes": 11
+    },
+    {
+      "kanji": "萸",
+      "strokes": 12
+    },
+    {
+      "kanji": "蔆",
+      "strokes": 14
+    },
+    {
+      "kanji": "菻",
+      "strokes": 11
+    },
+    {
+      "kanji": "葭",
+      "strokes": 12
+    },
+    {
+      "kanji": "萪",
+      "strokes": 12
+    },
+    {
+      "kanji": "萼",
+      "strokes": 12
+    },
+    {
+      "kanji": "蕚",
+      "strokes": 16
+    },
+    {
+      "kanji": "蒄",
+      "strokes": 12
+    },
+    {
+      "kanji": "葷",
+      "strokes": 12
+    },
+    {
+      "kanji": "葫",
+      "strokes": 12
+    },
+    {
+      "kanji": "蒭",
+      "strokes": 13
+    },
+    {
+      "kanji": "葮",
+      "strokes": 12
+    },
+    {
+      "kanji": "蒂",
+      "strokes": 12
+    },
+    {
+      "kanji": "葩",
+      "strokes": 12
+    },
+    {
+      "kanji": "葆",
+      "strokes": 12
+    },
+    {
+      "kanji": "萬",
+      "strokes": 12
+    },
+    {
+      "kanji": "葯",
+      "strokes": 12
+    },
+    {
+      "kanji": "葹",
+      "strokes": 12
+    },
+    {
+      "kanji": "萵",
+      "strokes": 12
+    },
+    {
+      "kanji": "蓊",
+      "strokes": 13
+    },
+    {
+      "kanji": "葢",
+      "strokes": 12
+    },
+    {
+      "kanji": "蒹",
+      "strokes": 13
+    },
+    {
+      "kanji": "蒿",
+      "strokes": 13
+    },
+    {
+      "kanji": "蒟",
+      "strokes": 13
+    },
+    {
+      "kanji": "蓙",
+      "strokes": 13
+    },
+    {
+      "kanji": "蓍",
+      "strokes": 13
+    },
+    {
+      "kanji": "蒻",
+      "strokes": 13
+    },
+    {
+      "kanji": "蓚",
+      "strokes": 13
+    },
+    {
+      "kanji": "蓐",
+      "strokes": 13
+    },
+    {
+      "kanji": "蓁",
+      "strokes": 13
+    },
+    {
+      "kanji": "蓆",
+      "strokes": 13
+    },
+    {
+      "kanji": "蓖",
+      "strokes": 13
+    },
+    {
+      "kanji": "蒡",
+      "strokes": 13
+    },
+    {
+      "kanji": "蔡",
+      "strokes": 14
+    },
+    {
+      "kanji": "蓿",
+      "strokes": 14
+    },
+    {
+      "kanji": "蓴",
+      "strokes": 14
+    },
+    {
+      "kanji": "蔗",
+      "strokes": 14
+    },
+    {
+      "kanji": "蔘",
+      "strokes": 14
+    },
+    {
+      "kanji": "蔬",
+      "strokes": 15
+    },
+    {
+      "kanji": "蔟",
+      "strokes": 14
+    },
+    {
+      "kanji": "蔕",
+      "strokes": 14
+    },
+    {
+      "kanji": "蔔",
+      "strokes": 14
+    },
+    {
+      "kanji": "蓼",
+      "strokes": 14
+    },
+    {
+      "kanji": "蕀",
+      "strokes": 15
+    },
+    {
+      "kanji": "蕣",
+      "strokes": 16
+    },
+    {
+      "kanji": "蕘",
+      "strokes": 15
+    },
+    {
+      "kanji": "蕈",
+      "strokes": 15
+    },
+    {
+      "kanji": "蕁",
+      "strokes": 15
+    },
+    {
+      "kanji": "蘂",
+      "strokes": 19
+    },
+    {
+      "kanji": "蕋",
+      "strokes": 15
+    },
+    {
+      "kanji": "蕕",
+      "strokes": 15
+    },
+    {
+      "kanji": "薀",
+      "strokes": 16
+    },
+    {
+      "kanji": "薤",
+      "strokes": 16
+    },
+    {
+      "kanji": "薈",
+      "strokes": 16
+    },
+    {
+      "kanji": "薑",
+      "strokes": 16
+    },
+    {
+      "kanji": "薊",
+      "strokes": 16
+    },
+    {
+      "kanji": "薨",
+      "strokes": 16
+    },
+    {
+      "kanji": "蕭",
+      "strokes": 16
+    },
+    {
+      "kanji": "薔",
+      "strokes": 16
+    },
+    {
+      "kanji": "薛",
+      "strokes": 16
+    },
+    {
+      "kanji": "藪",
+      "strokes": 18
+    },
+    {
+      "kanji": "薇",
+      "strokes": 16
+    },
+    {
+      "kanji": "薜",
+      "strokes": 16
+    },
+    {
+      "kanji": "蕷",
+      "strokes": 16
+    },
+    {
+      "kanji": "蕾",
+      "strokes": 16
+    },
+    {
+      "kanji": "薐",
+      "strokes": 16
+    },
+    {
+      "kanji": "藉",
+      "strokes": 17
+    },
+    {
+      "kanji": "薺",
+      "strokes": 17
+    },
+    {
+      "kanji": "藏",
+      "strokes": 18
+    },
+    {
+      "kanji": "薹",
+      "strokes": 17
+    },
+    {
+      "kanji": "藐",
+      "strokes": 17
+    },
+    {
+      "kanji": "藕",
+      "strokes": 18
+    },
+    {
+      "kanji": "藝",
+      "strokes": 18
+    },
+    {
+      "kanji": "藥",
+      "strokes": 18
+    },
+    {
+      "kanji": "藜",
+      "strokes": 18
+    },
+    {
+      "kanji": "藹",
+      "strokes": 19
+    },
+    {
+      "kanji": "蘊",
+      "strokes": 19
+    },
+    {
+      "kanji": "蘓",
+      "strokes": 19
+    },
+    {
+      "kanji": "蘋",
+      "strokes": 19
+    },
+    {
+      "kanji": "藾",
+      "strokes": 19
+    },
+    {
+      "kanji": "藺",
+      "strokes": 19
+    },
+    {
+      "kanji": "蘆",
+      "strokes": 19
+    },
+    {
+      "kanji": "蘢",
+      "strokes": 19
+    },
+    {
+      "kanji": "蘚",
+      "strokes": 20
+    },
+    {
+      "kanji": "蘰",
+      "strokes": 20
+    },
+    {
+      "kanji": "蘿",
+      "strokes": 22
+    },
+    {
+      "kanji": "虔",
+      "strokes": 10
+    },
+    {
+      "kanji": "號",
+      "strokes": 13
+    },
+    {
+      "kanji": "虧",
+      "strokes": 17
+    },
+    {
+      "kanji": "蚓",
+      "strokes": 10
+    },
+    {
+      "kanji": "蚣",
+      "strokes": 10
+    },
+    {
+      "kanji": "蚩",
+      "strokes": 10
+    },
+    {
+      "kanji": "蚪",
+      "strokes": 10
+    },
+    {
+      "kanji": "蚋",
+      "strokes": 10
+    },
+    {
+      "kanji": "蚌",
+      "strokes": 10
+    },
+    {
+      "kanji": "蚶",
+      "strokes": 11
+    },
+    {
+      "kanji": "蚯",
+      "strokes": 11
+    },
+    {
+      "kanji": "蛄",
+      "strokes": 11
+    },
+    {
+      "kanji": "蛆",
+      "strokes": 11
+    },
+    {
+      "kanji": "蚰",
+      "strokes": 11
+    },
+    {
+      "kanji": "蛉",
+      "strokes": 11
+    },
+    {
+      "kanji": "蠣",
+      "strokes": 20
+    },
+    {
+      "kanji": "蚫",
+      "strokes": 11
+    },
+    {
+      "kanji": "蛔",
+      "strokes": 12
+    },
+    {
+      "kanji": "蛞",
+      "strokes": 12
+    },
+    {
+      "kanji": "蛩",
+      "strokes": 12
+    },
+    {
+      "kanji": "蛬",
+      "strokes": 12
+    },
+    {
+      "kanji": "蛟",
+      "strokes": 12
+    },
+    {
+      "kanji": "蛛",
+      "strokes": 12
+    },
+    {
+      "kanji": "蛯",
+      "strokes": 12
+    },
+    {
+      "kanji": "蜒",
+      "strokes": 13
+    },
+    {
+      "kanji": "蜆",
+      "strokes": 13
+    },
+    {
+      "kanji": "蜈",
+      "strokes": 13
+    },
+    {
+      "kanji": "蜀",
+      "strokes": 13
+    },
+    {
+      "kanji": "蜃",
+      "strokes": 13
+    },
+    {
+      "kanji": "蛻",
+      "strokes": 13
+    },
+    {
+      "kanji": "蜑",
+      "strokes": 13
+    },
+    {
+      "kanji": "蜉",
+      "strokes": 13
+    },
+    {
+      "kanji": "蜍",
+      "strokes": 13
+    },
+    {
+      "kanji": "蛹",
+      "strokes": 13
+    },
+    {
+      "kanji": "蜊",
+      "strokes": 13
+    },
+    {
+      "kanji": "蜴",
+      "strokes": 14
+    },
+    {
+      "kanji": "蜿",
+      "strokes": 14
+    },
+    {
+      "kanji": "蜷",
+      "strokes": 14
+    },
+    {
+      "kanji": "蜻",
+      "strokes": 14
+    },
+    {
+      "kanji": "蜥",
+      "strokes": 14
+    },
+    {
+      "kanji": "蜩",
+      "strokes": 14
+    },
+    {
+      "kanji": "蜚",
+      "strokes": 14
+    },
+    {
+      "kanji": "蝠",
+      "strokes": 15
+    },
+    {
+      "kanji": "蝟",
+      "strokes": 15
+    },
+    {
+      "kanji": "蝸",
+      "strokes": 15
+    },
+    {
+      "kanji": "蝌",
+      "strokes": 15
+    },
+    {
+      "kanji": "蝎",
+      "strokes": 15
+    },
+    {
+      "kanji": "蝴",
+      "strokes": 15
+    },
+    {
+      "kanji": "蝗",
+      "strokes": 15
+    },
+    {
+      "kanji": "蝨",
+      "strokes": 15
+    },
+    {
+      "kanji": "蝮",
+      "strokes": 15
+    },
+    {
+      "kanji": "蝙",
+      "strokes": 15
+    },
+    {
+      "kanji": "蝓",
+      "strokes": 15
+    },
+    {
+      "kanji": "蝣",
+      "strokes": 15
+    },
+    {
+      "kanji": "蝪",
+      "strokes": 15
+    },
+    {
+      "kanji": "蠅",
+      "strokes": 19
+    },
+    {
+      "kanji": "螢",
+      "strokes": 16
+    },
+    {
+      "kanji": "螟",
+      "strokes": 16
+    },
+    {
+      "kanji": "螂",
+      "strokes": 16
+    },
+    {
+      "kanji": "螯",
+      "strokes": 17
+    },
+    {
+      "kanji": "蟋",
+      "strokes": 17
+    },
+    {
+      "kanji": "螽",
+      "strokes": 17
+    },
+    {
+      "kanji": "蟀",
+      "strokes": 17
+    },
+    {
+      "kanji": "蟐",
+      "strokes": 17
+    },
+    {
+      "kanji": "雖",
+      "strokes": 17
+    },
+    {
+      "kanji": "螫",
+      "strokes": 17
+    },
+    {
+      "kanji": "蟄",
+      "strokes": 17
+    },
+    {
+      "kanji": "螳",
+      "strokes": 17
+    },
+    {
+      "kanji": "蟇",
+      "strokes": 16
+    },
+    {
+      "kanji": "蟆",
+      "strokes": 16
+    },
+    {
+      "kanji": "螻",
+      "strokes": 17
+    },
+    {
+      "kanji": "蟯",
+      "strokes": 18
+    },
+    {
+      "kanji": "蟲",
+      "strokes": 18
+    },
+    {
+      "kanji": "蟠",
+      "strokes": 18
+    },
+    {
+      "kanji": "蠏",
+      "strokes": 19
+    },
+    {
+      "kanji": "蠍",
+      "strokes": 19
+    },
+    {
+      "kanji": "蟾",
+      "strokes": 19
+    },
+    {
+      "kanji": "蟶",
+      "strokes": 19
+    },
+    {
+      "kanji": "蟷",
+      "strokes": 19
+    },
+    {
+      "kanji": "蠎",
+      "strokes": 17
+    },
+    {
+      "kanji": "蟒",
+      "strokes": 15
+    },
+    {
+      "kanji": "蠑",
+      "strokes": 20
+    },
+    {
+      "kanji": "蠖",
+      "strokes": 19
+    },
+    {
+      "kanji": "蠕",
+      "strokes": 20
+    },
+    {
+      "kanji": "蠢",
+      "strokes": 21
+    },
+    {
+      "kanji": "蠡",
+      "strokes": 21
+    },
+    {
+      "kanji": "蠱",
+      "strokes": 23
+    },
+    {
+      "kanji": "蠶",
+      "strokes": 26
+    },
+    {
+      "kanji": "蠹",
+      "strokes": 24
+    },
+    {
+      "kanji": "蠧",
+      "strokes": 22
+    },
+    {
+      "kanji": "蠻",
+      "strokes": 25
+    },
+    {
+      "kanji": "衄",
+      "strokes": 10
+    },
+    {
+      "kanji": "衒",
+      "strokes": 11
+    },
+    {
+      "kanji": "衙",
+      "strokes": 13
+    },
+    {
+      "kanji": "衞",
+      "strokes": 16
+    },
+    {
+      "kanji": "衢",
+      "strokes": 24
+    },
+    {
+      "kanji": "袁",
+      "strokes": 10
+    },
+    {
+      "kanji": "衾",
+      "strokes": 10
+    },
+    {
+      "kanji": "袞",
+      "strokes": 11
+    },
+    {
+      "kanji": "袵",
+      "strokes": 11
+    },
+    {
+      "kanji": "袗",
+      "strokes": 10
+    },
+    {
+      "kanji": "袒",
+      "strokes": 10
+    },
+    {
+      "kanji": "袮",
+      "strokes": 10
+    },
+    {
+      "kanji": "袙",
+      "strokes": 10
+    },
+    {
+      "kanji": "袢",
+      "strokes": 10
+    },
+    {
+      "kanji": "袍",
+      "strokes": 10
+    },
+    {
+      "kanji": "袤",
+      "strokes": 11
+    },
+    {
+      "kanji": "袰",
+      "strokes": 11
+    },
+    {
+      "kanji": "袿",
+      "strokes": 11
+    },
+    {
+      "kanji": "袱",
+      "strokes": 11
+    },
+    {
+      "kanji": "裃",
+      "strokes": 11
+    },
+    {
+      "kanji": "裄",
+      "strokes": 11
+    },
+    {
+      "kanji": "裔",
+      "strokes": 13
+    },
+    {
+      "kanji": "裘",
+      "strokes": 13
+    },
+    {
+      "kanji": "裙",
+      "strokes": 12
+    },
+    {
+      "kanji": "裝",
+      "strokes": 13
+    },
+    {
+      "kanji": "裹",
+      "strokes": 14
+    },
+    {
+      "kanji": "褂",
+      "strokes": 13
+    },
+    {
+      "kanji": "裼",
+      "strokes": 13
+    },
+    {
+      "kanji": "裴",
+      "strokes": 14
+    },
+    {
+      "kanji": "裨",
+      "strokes": 13
+    },
+    {
+      "kanji": "裲",
+      "strokes": 13
+    },
+    {
+      "kanji": "褄",
+      "strokes": 13
+    },
+    {
+      "kanji": "褌",
+      "strokes": 14
+    },
+    {
+      "kanji": "褊",
+      "strokes": 14
+    },
+    {
+      "kanji": "褓",
+      "strokes": 14
+    },
+    {
+      "kanji": "襃",
+      "strokes": 17
+    },
+    {
+      "kanji": "褞",
+      "strokes": 15
+    },
+    {
+      "kanji": "褥",
+      "strokes": 15
+    },
+    {
+      "kanji": "褪",
+      "strokes": 15
+    },
+    {
+      "kanji": "褫",
+      "strokes": 15
+    },
+    {
+      "kanji": "襁",
+      "strokes": 16
+    },
+    {
+      "kanji": "襄",
+      "strokes": 17
+    },
+    {
+      "kanji": "褻",
+      "strokes": 17
+    },
+    {
+      "kanji": "褶",
+      "strokes": 16
+    },
+    {
+      "kanji": "褸",
+      "strokes": 16
+    },
+    {
+      "kanji": "襌",
+      "strokes": 17
+    },
+    {
+      "kanji": "褝",
+      "strokes": 14
+    },
+    {
+      "kanji": "襠",
+      "strokes": 18
+    },
+    {
+      "kanji": "襞",
+      "strokes": 19
+    },
+    {
+      "kanji": "襦",
+      "strokes": 19
+    },
+    {
+      "kanji": "襤",
+      "strokes": 20
+    },
+    {
+      "kanji": "襭",
+      "strokes": 20
+    },
+    {
+      "kanji": "襪",
+      "strokes": 19
+    },
+    {
+      "kanji": "襯",
+      "strokes": 21
+    },
+    {
+      "kanji": "襴",
+      "strokes": 22
+    },
+    {
+      "kanji": "襷",
+      "strokes": 22
+    },
+    {
+      "kanji": "覃",
+      "strokes": 12
+    },
+    {
+      "kanji": "覈",
+      "strokes": 19
+    },
+    {
+      "kanji": "覊",
+      "strokes": 25
+    },
+    {
+      "kanji": "覓",
+      "strokes": 11
+    },
+    {
+      "kanji": "覘",
+      "strokes": 12
+    },
+    {
+      "kanji": "覡",
+      "strokes": 14
+    },
+    {
+      "kanji": "覩",
+      "strokes": 16
+    },
+    {
+      "kanji": "覦",
+      "strokes": 16
+    },
+    {
+      "kanji": "覬",
+      "strokes": 17
+    },
+    {
+      "kanji": "覯",
+      "strokes": 17
+    },
+    {
+      "kanji": "覲",
+      "strokes": 18
+    },
+    {
+      "kanji": "覺",
+      "strokes": 20
+    },
+    {
+      "kanji": "覽",
+      "strokes": 22
+    },
+    {
+      "kanji": "覿",
+      "strokes": 22
+    },
+    {
+      "kanji": "觀",
+      "strokes": 24
+    },
+    {
+      "kanji": "觚",
+      "strokes": 13
+    },
+    {
+      "kanji": "觜",
+      "strokes": 13
+    },
+    {
+      "kanji": "觝",
+      "strokes": 12
+    },
+    {
+      "kanji": "觧",
+      "strokes": 13
+    },
+    {
+      "kanji": "觴",
+      "strokes": 18
+    },
+    {
+      "kanji": "觸",
+      "strokes": 20
+    },
+    {
+      "kanji": "訖",
+      "strokes": 10
+    },
+    {
+      "kanji": "訐",
+      "strokes": 10
+    },
+    {
+      "kanji": "訌",
+      "strokes": 10
+    },
+    {
+      "kanji": "訛",
+      "strokes": 11
+    },
+    {
+      "kanji": "訝",
+      "strokes": 12
+    },
+    {
+      "kanji": "訥",
+      "strokes": 11
+    },
+    {
+      "kanji": "訶",
+      "strokes": 12
+    },
+    {
+      "kanji": "詁",
+      "strokes": 12
+    },
+    {
+      "kanji": "詛",
+      "strokes": 12
+    },
+    {
+      "kanji": "詒",
+      "strokes": 12
+    },
+    {
+      "kanji": "詆",
+      "strokes": 12
+    },
+    {
+      "kanji": "詈",
+      "strokes": 12
+    },
+    {
+      "kanji": "詼",
+      "strokes": 13
+    },
+    {
+      "kanji": "詭",
+      "strokes": 13
+    },
+    {
+      "kanji": "詬",
+      "strokes": 13
+    },
+    {
+      "kanji": "詢",
+      "strokes": 13
+    },
+    {
+      "kanji": "誅",
+      "strokes": 13
+    },
+    {
+      "kanji": "誂",
+      "strokes": 13
+    },
+    {
+      "kanji": "誄",
+      "strokes": 13
+    },
+    {
+      "kanji": "誨",
+      "strokes": 14
+    },
+    {
+      "kanji": "誡",
+      "strokes": 14
+    },
+    {
+      "kanji": "誑",
+      "strokes": 14
+    },
+    {
+      "kanji": "誥",
+      "strokes": 14
+    },
+    {
+      "kanji": "誦",
+      "strokes": 14
+    },
+    {
+      "kanji": "誚",
+      "strokes": 14
+    },
+    {
+      "kanji": "誣",
+      "strokes": 14
+    },
+    {
+      "kanji": "諄",
+      "strokes": 15
+    },
+    {
+      "kanji": "諍",
+      "strokes": 15
+    },
+    {
+      "kanji": "諂",
+      "strokes": 15
+    },
+    {
+      "kanji": "諚",
+      "strokes": 15
+    },
+    {
+      "kanji": "諫",
+      "strokes": 16
+    },
+    {
+      "kanji": "諳",
+      "strokes": 16
+    },
+    {
+      "kanji": "諧",
+      "strokes": 16
+    },
+    {
+      "kanji": "諤",
+      "strokes": 16
+    },
+    {
+      "kanji": "諱",
+      "strokes": 17
+    },
+    {
+      "kanji": "謔",
+      "strokes": 16
+    },
+    {
+      "kanji": "諠",
+      "strokes": 16
+    },
+    {
+      "kanji": "諢",
+      "strokes": 16
+    },
+    {
+      "kanji": "諷",
+      "strokes": 16
+    },
+    {
+      "kanji": "諞",
+      "strokes": 16
+    },
+    {
+      "kanji": "諛",
+      "strokes": 16
+    },
+    {
+      "kanji": "謌",
+      "strokes": 17
+    },
+    {
+      "kanji": "謇",
+      "strokes": 17
+    },
+    {
+      "kanji": "謚",
+      "strokes": 17
+    },
+    {
+      "kanji": "諡",
+      "strokes": 16
+    },
+    {
+      "kanji": "謖",
+      "strokes": 17
+    },
+    {
+      "kanji": "謐",
+      "strokes": 17
+    },
+    {
+      "kanji": "謗",
+      "strokes": 17
+    },
+    {
+      "kanji": "謠",
+      "strokes": 17
+    },
+    {
+      "kanji": "謳",
+      "strokes": 18
+    },
+    {
+      "kanji": "鞫",
+      "strokes": 18
+    },
+    {
+      "kanji": "謦",
+      "strokes": 18
+    },
+    {
+      "kanji": "謫",
+      "strokes": 18
+    },
+    {
+      "kanji": "謾",
+      "strokes": 18
+    },
+    {
+      "kanji": "謨",
+      "strokes": 17
+    },
+    {
+      "kanji": "譁",
+      "strokes": 17
+    },
+    {
+      "kanji": "譌",
+      "strokes": 19
+    },
+    {
+      "kanji": "譏",
+      "strokes": 19
+    },
+    {
+      "kanji": "譎",
+      "strokes": 19
+    },
+    {
+      "kanji": "證",
+      "strokes": 19
+    },
+    {
+      "kanji": "譖",
+      "strokes": 21
+    },
+    {
+      "kanji": "譛",
+      "strokes": 19
+    },
+    {
+      "kanji": "譚",
+      "strokes": 19
+    },
+    {
+      "kanji": "譫",
+      "strokes": 20
+    },
+    {
+      "kanji": "譟",
+      "strokes": 20
+    },
+    {
+      "kanji": "譬",
+      "strokes": 20
+    },
+    {
+      "kanji": "譯",
+      "strokes": 20
+    },
+    {
+      "kanji": "譴",
+      "strokes": 21
+    },
+    {
+      "kanji": "譽",
+      "strokes": 20
+    },
+    {
+      "kanji": "讀",
+      "strokes": 22
+    },
+    {
+      "kanji": "讌",
+      "strokes": 23
+    },
+    {
+      "kanji": "讎",
+      "strokes": 23
+    },
+    {
+      "kanji": "讒",
+      "strokes": 24
+    },
+    {
+      "kanji": "讓",
+      "strokes": 24
+    },
+    {
+      "kanji": "讖",
+      "strokes": 24
+    },
+    {
+      "kanji": "讙",
+      "strokes": 24
+    },
+    {
+      "kanji": "讚",
+      "strokes": 26
+    },
+    {
+      "kanji": "谺",
+      "strokes": 12
+    },
+    {
+      "kanji": "豁",
+      "strokes": 17
+    },
+    {
+      "kanji": "谿",
+      "strokes": 17
+    },
+    {
+      "kanji": "豈",
+      "strokes": 10
+    },
+    {
+      "kanji": "豌",
+      "strokes": 15
+    },
+    {
+      "kanji": "豎",
+      "strokes": 16
+    },
+    {
+      "kanji": "豐",
+      "strokes": 18
+    },
+    {
+      "kanji": "豢",
+      "strokes": 13
+    },
+    {
+      "kanji": "豬",
+      "strokes": 16
+    },
+    {
+      "kanji": "豺",
+      "strokes": 10
+    },
+    {
+      "kanji": "貂",
+      "strokes": 12
+    },
+    {
+      "kanji": "貉",
+      "strokes": 13
+    },
+    {
+      "kanji": "貅",
+      "strokes": 13
+    },
+    {
+      "kanji": "貊",
+      "strokes": 13
+    },
+    {
+      "kanji": "貍",
+      "strokes": 14
+    },
+    {
+      "kanji": "貎",
+      "strokes": 15
+    },
+    {
+      "kanji": "貔",
+      "strokes": 17
+    },
+    {
+      "kanji": "豼",
+      "strokes": 11
+    },
+    {
+      "kanji": "貘",
+      "strokes": 17
+    },
+    {
+      "kanji": "戝",
+      "strokes": 11
+    },
+    {
+      "kanji": "貭",
+      "strokes": 11
+    },
+    {
+      "kanji": "貪",
+      "strokes": 11
+    },
+    {
+      "kanji": "貽",
+      "strokes": 12
+    },
+    {
+      "kanji": "貲",
+      "strokes": 13
+    },
+    {
+      "kanji": "貳",
+      "strokes": 12
+    },
+    {
+      "kanji": "貮",
+      "strokes": 11
+    },
+    {
+      "kanji": "貶",
+      "strokes": 11
+    },
+    {
+      "kanji": "賈",
+      "strokes": 13
+    },
+    {
+      "kanji": "賁",
+      "strokes": 12
+    },
+    {
+      "kanji": "賤",
+      "strokes": 15
+    },
+    {
+      "kanji": "賣",
+      "strokes": 15
+    },
+    {
+      "kanji": "賚",
+      "strokes": 15
+    },
+    {
+      "kanji": "賽",
+      "strokes": 17
+    },
+    {
+      "kanji": "賺",
+      "strokes": 17
+    },
+    {
+      "kanji": "賻",
+      "strokes": 17
+    },
+    {
+      "kanji": "贄",
+      "strokes": 18
+    },
+    {
+      "kanji": "贅",
+      "strokes": 18
+    },
+    {
+      "kanji": "贊",
+      "strokes": 19
+    },
+    {
+      "kanji": "贇",
+      "strokes": 19
+    },
+    {
+      "kanji": "贏",
+      "strokes": 20
+    },
+    {
+      "kanji": "贍",
+      "strokes": 20
+    },
+    {
+      "kanji": "贐",
+      "strokes": 21
+    },
+    {
+      "kanji": "齎",
+      "strokes": 21
+    },
+    {
+      "kanji": "贓",
+      "strokes": 22
+    },
+    {
+      "kanji": "賍",
+      "strokes": 13
+    },
+    {
+      "kanji": "贔",
+      "strokes": 21
+    },
+    {
+      "kanji": "贖",
+      "strokes": 22
+    },
+    {
+      "kanji": "赧",
+      "strokes": 12
+    },
+    {
+      "kanji": "赭",
+      "strokes": 16
+    },
+    {
+      "kanji": "赳",
+      "strokes": 10
+    },
+    {
+      "kanji": "趁",
+      "strokes": 12
+    },
+    {
+      "kanji": "趙",
+      "strokes": 14
+    },
+    {
+      "kanji": "跂",
+      "strokes": 11
+    },
+    {
+      "kanji": "趾",
+      "strokes": 11
+    },
+    {
+      "kanji": "趺",
+      "strokes": 11
+    },
+    {
+      "kanji": "跚",
+      "strokes": 12
+    },
+    {
+      "kanji": "跖",
+      "strokes": 12
+    },
+    {
+      "kanji": "跌",
+      "strokes": 12
+    },
+    {
+      "kanji": "跛",
+      "strokes": 12
+    },
+    {
+      "kanji": "跋",
+      "strokes": 12
+    },
+    {
+      "kanji": "跪",
+      "strokes": 13
+    },
+    {
+      "kanji": "跫",
+      "strokes": 13
+    },
+    {
+      "kanji": "跟",
+      "strokes": 13
+    },
+    {
+      "kanji": "跣",
+      "strokes": 13
+    },
+    {
+      "kanji": "跼",
+      "strokes": 14
+    },
+    {
+      "kanji": "踈",
+      "strokes": 14
+    },
+    {
+      "kanji": "跿",
+      "strokes": 14
+    },
+    {
+      "kanji": "踝",
+      "strokes": 15
+    },
+    {
+      "kanji": "踞",
+      "strokes": 15
+    },
+    {
+      "kanji": "踐",
+      "strokes": 15
+    },
+    {
+      "kanji": "踟",
+      "strokes": 15
+    },
+    {
+      "kanji": "蹂",
+      "strokes": 16
+    },
+    {
+      "kanji": "踵",
+      "strokes": 16
+    },
+    {
+      "kanji": "踰",
+      "strokes": 16
+    },
+    {
+      "kanji": "踴",
+      "strokes": 16
+    },
+    {
+      "kanji": "蹊",
+      "strokes": 17
+    },
+    {
+      "kanji": "蹇",
+      "strokes": 17
+    },
+    {
+      "kanji": "蹉",
+      "strokes": 17
+    },
+    {
+      "kanji": "蹌",
+      "strokes": 17
+    },
+    {
+      "kanji": "蹐",
+      "strokes": 17
+    },
+    {
+      "kanji": "蹈",
+      "strokes": 17
+    },
+    {
+      "kanji": "蹙",
+      "strokes": 18
+    },
+    {
+      "kanji": "蹤",
+      "strokes": 18
+    },
+    {
+      "kanji": "蹠",
+      "strokes": 18
+    },
+    {
+      "kanji": "踪",
+      "strokes": 15
+    },
+    {
+      "kanji": "蹣",
+      "strokes": 18
+    },
+    {
+      "kanji": "蹕",
+      "strokes": 18
+    },
+    {
+      "kanji": "蹶",
+      "strokes": 19
+    },
+    {
+      "kanji": "蹲",
+      "strokes": 19
+    },
+    {
+      "kanji": "蹼",
+      "strokes": 19
+    },
+    {
+      "kanji": "躁",
+      "strokes": 20
+    },
+    {
+      "kanji": "躇",
+      "strokes": 19
+    },
+    {
+      "kanji": "躅",
+      "strokes": 20
+    },
+    {
+      "kanji": "躄",
+      "strokes": 20
+    },
+    {
+      "kanji": "躋",
+      "strokes": 21
+    },
+    {
+      "kanji": "躊",
+      "strokes": 21
+    },
+    {
+      "kanji": "躓",
+      "strokes": 22
+    },
+    {
+      "kanji": "躑",
+      "strokes": 22
+    },
+    {
+      "kanji": "躔",
+      "strokes": 22
+    },
+    {
+      "kanji": "躙",
+      "strokes": 23
+    },
+    {
+      "kanji": "躪",
+      "strokes": 26
+    },
+    {
+      "kanji": "躡",
+      "strokes": 25
+    },
+    {
+      "kanji": "躬",
+      "strokes": 10
+    },
+    {
+      "kanji": "躰",
+      "strokes": 12
+    },
+    {
+      "kanji": "軆",
+      "strokes": 20
+    },
+    {
+      "kanji": "躱",
+      "strokes": 13
+    },
+    {
+      "kanji": "躾",
+      "strokes": 16
+    },
+    {
+      "kanji": "軅",
+      "strokes": 19
+    },
+    {
+      "kanji": "軈",
+      "strokes": 24
+    },
+    {
+      "kanji": "軛",
+      "strokes": 11
+    },
+    {
+      "kanji": "軣",
+      "strokes": 11
+    },
+    {
+      "kanji": "軼",
+      "strokes": 12
+    },
+    {
+      "kanji": "軻",
+      "strokes": 12
+    },
+    {
+      "kanji": "軫",
+      "strokes": 12
+    },
+    {
+      "kanji": "軾",
+      "strokes": 13
+    },
+    {
+      "kanji": "輊",
+      "strokes": 13
+    },
+    {
+      "kanji": "輅",
+      "strokes": 13
+    },
+    {
+      "kanji": "輕",
+      "strokes": 14
+    },
+    {
+      "kanji": "輒",
+      "strokes": 14
+    },
+    {
+      "kanji": "輙",
+      "strokes": 15
+    },
+    {
+      "kanji": "輓",
+      "strokes": 14
+    },
+    {
+      "kanji": "輜",
+      "strokes": 15
+    },
+    {
+      "kanji": "輟",
+      "strokes": 15
+    },
+    {
+      "kanji": "輛",
+      "strokes": 15
+    },
+    {
+      "kanji": "輌",
+      "strokes": 13
+    },
+    {
+      "kanji": "輦",
+      "strokes": 15
+    },
+    {
+      "kanji": "輳",
+      "strokes": 16
+    },
+    {
+      "kanji": "輻",
+      "strokes": 16
+    },
+    {
+      "kanji": "輹",
+      "strokes": 16
+    },
+    {
+      "kanji": "轅",
+      "strokes": 17
+    },
+    {
+      "kanji": "轂",
+      "strokes": 17
+    },
+    {
+      "kanji": "輾",
+      "strokes": 17
+    },
+    {
+      "kanji": "轌",
+      "strokes": 18
+    },
+    {
+      "kanji": "轉",
+      "strokes": 18
+    },
+    {
+      "kanji": "轆",
+      "strokes": 18
+    },
+    {
+      "kanji": "轎",
+      "strokes": 19
+    },
+    {
+      "kanji": "轗",
+      "strokes": 20
+    },
+    {
+      "kanji": "轜",
+      "strokes": 21
+    },
+    {
+      "kanji": "轢",
+      "strokes": 22
+    },
+    {
+      "kanji": "轣",
+      "strokes": 23
+    },
+    {
+      "kanji": "轤",
+      "strokes": 23
+    },
+    {
+      "kanji": "辜",
+      "strokes": 12
+    },
+    {
+      "kanji": "辟",
+      "strokes": 13
+    },
+    {
+      "kanji": "辣",
+      "strokes": 14
+    },
+    {
+      "kanji": "辭",
+      "strokes": 19
+    },
+    {
+      "kanji": "辯",
+      "strokes": 21
+    },
+    {
+      "kanji": "邇",
+      "strokes": 18
+    },
+    {
+      "kanji": "迴",
+      "strokes": 10
+    },
+    {
+      "kanji": "逅",
+      "strokes": 10
+    },
+    {
+      "kanji": "迹",
+      "strokes": 10
+    },
+    {
+      "kanji": "迺",
+      "strokes": 10
+    },
+    {
+      "kanji": "逑",
+      "strokes": 11
+    },
+    {
+      "kanji": "逕",
+      "strokes": 11
+    },
+    {
+      "kanji": "逡",
+      "strokes": 11
+    },
+    {
+      "kanji": "逍",
+      "strokes": 11
+    },
+    {
+      "kanji": "逞",
+      "strokes": 11
+    },
+    {
+      "kanji": "逖",
+      "strokes": 11
+    },
+    {
+      "kanji": "逋",
+      "strokes": 11
+    },
+    {
+      "kanji": "逧",
+      "strokes": 11
+    },
+    {
+      "kanji": "逶",
+      "strokes": 12
+    },
+    {
+      "kanji": "逵",
+      "strokes": 12
+    },
+    {
+      "kanji": "逹",
+      "strokes": 12
+    },
+    {
+      "kanji": "迸",
+      "strokes": 10
+    },
+    {
+      "kanji": "遏",
+      "strokes": 12
+    },
+    {
+      "kanji": "遐",
+      "strokes": 13
+    },
+    {
+      "kanji": "遑",
+      "strokes": 13
+    },
+    {
+      "kanji": "遒",
+      "strokes": 13
+    },
+    {
+      "kanji": "逎",
+      "strokes": 11
+    },
+    {
+      "kanji": "遉",
+      "strokes": 13
+    },
+    {
+      "kanji": "逾",
+      "strokes": 13
+    },
+    {
+      "kanji": "遖",
+      "strokes": 13
+    },
+    {
+      "kanji": "遘",
+      "strokes": 14
+    },
+    {
+      "kanji": "遞",
+      "strokes": 14
+    },
+    {
+      "kanji": "遨",
+      "strokes": 15
+    },
+    {
+      "kanji": "遯",
+      "strokes": 15
+    },
+    {
+      "kanji": "遶",
+      "strokes": 16
+    },
+    {
+      "kanji": "隨",
+      "strokes": 16
+    },
+    {
+      "kanji": "遲",
+      "strokes": 16
+    },
+    {
+      "kanji": "邂",
+      "strokes": 17
+    },
+    {
+      "kanji": "遽",
+      "strokes": 17
+    },
+    {
+      "kanji": "邁",
+      "strokes": 17
+    },
+    {
+      "kanji": "邀",
+      "strokes": 17
+    },
+    {
+      "kanji": "邊",
+      "strokes": 19
+    },
+    {
+      "kanji": "邉",
+      "strokes": 18
+    },
+    {
+      "kanji": "邏",
+      "strokes": 23
+    },
+    {
+      "kanji": "郢",
+      "strokes": 10
+    },
+    {
+      "kanji": "郤",
+      "strokes": 10
+    },
+    {
+      "kanji": "扈",
+      "strokes": 11
+    },
+    {
+      "kanji": "郛",
+      "strokes": 10
+    },
+    {
+      "kanji": "鄂",
+      "strokes": 12
+    },
+    {
+      "kanji": "鄒",
+      "strokes": 13
+    },
+    {
+      "kanji": "鄙",
+      "strokes": 14
+    },
+    {
+      "kanji": "鄲",
+      "strokes": 15
+    },
+    {
+      "kanji": "鄰",
+      "strokes": 16
+    },
+    {
+      "kanji": "酖",
+      "strokes": 11
+    },
+    {
+      "kanji": "酘",
+      "strokes": 11
+    },
+    {
+      "kanji": "酣",
+      "strokes": 12
+    },
+    {
+      "kanji": "酥",
+      "strokes": 12
+    },
+    {
+      "kanji": "酩",
+      "strokes": 13
+    },
+    {
+      "kanji": "酳",
+      "strokes": 14
+    },
+    {
+      "kanji": "酲",
+      "strokes": 14
+    },
+    {
+      "kanji": "醋",
+      "strokes": 15
+    },
+    {
+      "kanji": "醉",
+      "strokes": 15
+    },
+    {
+      "kanji": "醂",
+      "strokes": 15
+    },
+    {
+      "kanji": "醢",
+      "strokes": 17
+    },
+    {
+      "kanji": "醫",
+      "strokes": 18
+    },
+    {
+      "kanji": "醯",
+      "strokes": 19
+    },
+    {
+      "kanji": "醪",
+      "strokes": 18
+    },
+    {
+      "kanji": "醵",
+      "strokes": 20
+    },
+    {
+      "kanji": "醴",
+      "strokes": 20
+    },
+    {
+      "kanji": "醺",
+      "strokes": 21
+    },
+    {
+      "kanji": "釀",
+      "strokes": 24
+    },
+    {
+      "kanji": "釁",
+      "strokes": 25
+    },
+    {
+      "kanji": "釉",
+      "strokes": 12
+    },
+    {
+      "kanji": "釋",
+      "strokes": 20
+    },
+    {
+      "kanji": "釐",
+      "strokes": 18
+    },
+    {
+      "kanji": "釖",
+      "strokes": 10
+    },
+    {
+      "kanji": "釟",
+      "strokes": 10
+    },
+    {
+      "kanji": "釡",
+      "strokes": 10
+    },
+    {
+      "kanji": "釛",
+      "strokes": 10
+    },
+    {
+      "kanji": "釼",
+      "strokes": 11
+    },
+    {
+      "kanji": "釵",
+      "strokes": 11
+    },
+    {
+      "kanji": "釶",
+      "strokes": 11
+    },
+    {
+      "kanji": "鈞",
+      "strokes": 12
+    },
+    {
+      "kanji": "釿",
+      "strokes": 12
+    },
+    {
+      "kanji": "鈔",
+      "strokes": 12
+    },
+    {
+      "kanji": "鈬",
+      "strokes": 12
+    },
+    {
+      "kanji": "鈕",
+      "strokes": 12
+    },
+    {
+      "kanji": "鈑",
+      "strokes": 12
+    },
+    {
+      "kanji": "鉞",
+      "strokes": 13
+    },
+    {
+      "kanji": "鉗",
+      "strokes": 13
+    },
+    {
+      "kanji": "鉅",
+      "strokes": 13
+    },
+    {
+      "kanji": "鉉",
+      "strokes": 13
+    },
+    {
+      "kanji": "鉤",
+      "strokes": 13
+    },
+    {
+      "kanji": "鉈",
+      "strokes": 13
+    },
+    {
+      "kanji": "銕",
+      "strokes": 14
+    },
+    {
+      "kanji": "鈿",
+      "strokes": 13
+    },
+    {
+      "kanji": "鉋",
+      "strokes": 13
+    },
+    {
+      "kanji": "鉐",
+      "strokes": 13
+    },
+    {
+      "kanji": "銜",
+      "strokes": 14
+    },
+    {
+      "kanji": "銖",
+      "strokes": 14
+    },
+    {
+      "kanji": "銓",
+      "strokes": 14
+    },
+    {
+      "kanji": "銛",
+      "strokes": 14
+    },
+    {
+      "kanji": "鉚",
+      "strokes": 13
+    },
+    {
+      "kanji": "鋏",
+      "strokes": 15
+    },
+    {
+      "kanji": "銹",
+      "strokes": 15
+    },
+    {
+      "kanji": "銷",
+      "strokes": 15
+    },
+    {
+      "kanji": "鋩",
+      "strokes": 14
+    },
+    {
+      "kanji": "錏",
+      "strokes": 16
+    },
+    {
+      "kanji": "鋺",
+      "strokes": 16
+    },
+    {
+      "kanji": "鍄",
+      "strokes": 16
+    },
+    {
+      "kanji": "錮",
+      "strokes": 16
+    },
+    {
+      "kanji": "錙",
+      "strokes": 16
+    },
+    {
+      "kanji": "錢",
+      "strokes": 16
+    },
+    {
+      "kanji": "錚",
+      "strokes": 16
+    },
+    {
+      "kanji": "錣",
+      "strokes": 16
+    },
+    {
+      "kanji": "錺",
+      "strokes": 15
+    },
+    {
+      "kanji": "錵",
+      "strokes": 15
+    },
+    {
+      "kanji": "錻",
+      "strokes": 16
+    },
+    {
+      "kanji": "鍜",
+      "strokes": 17
+    },
+    {
+      "kanji": "鍠",
+      "strokes": 17
+    },
+    {
+      "kanji": "鍼",
+      "strokes": 17
+    },
+    {
+      "kanji": "鍮",
+      "strokes": 17
+    },
+    {
+      "kanji": "鍖",
+      "strokes": 17
+    },
+    {
+      "kanji": "鎰",
+      "strokes": 18
+    },
+    {
+      "kanji": "鎬",
+      "strokes": 18
+    },
+    {
+      "kanji": "鎭",
+      "strokes": 18
+    },
+    {
+      "kanji": "鎔",
+      "strokes": 18
+    },
+    {
+      "kanji": "鎹",
+      "strokes": 18
+    },
+    {
+      "kanji": "鏖",
+      "strokes": 19
+    },
+    {
+      "kanji": "鏗",
+      "strokes": 20
+    },
+    {
+      "kanji": "鏨",
+      "strokes": 19
+    },
+    {
+      "kanji": "鏥",
+      "strokes": 19
+    },
+    {
+      "kanji": "鏘",
+      "strokes": 19
+    },
+    {
+      "kanji": "鏃",
+      "strokes": 19
+    },
+    {
+      "kanji": "鏝",
+      "strokes": 19
+    },
+    {
+      "kanji": "鏐",
+      "strokes": 19
+    },
+    {
+      "kanji": "鏈",
+      "strokes": 19
+    },
+    {
+      "kanji": "鏤",
+      "strokes": 19
+    },
+    {
+      "kanji": "鐚",
+      "strokes": 20
+    },
+    {
+      "kanji": "鐔",
+      "strokes": 20
+    },
+    {
+      "kanji": "鐓",
+      "strokes": 20
+    },
+    {
+      "kanji": "鐃",
+      "strokes": 20
+    },
+    {
+      "kanji": "鐇",
+      "strokes": 20
+    },
+    {
+      "kanji": "鐐",
+      "strokes": 20
+    },
+    {
+      "kanji": "鐶",
+      "strokes": 21
+    },
+    {
+      "kanji": "鐫",
+      "strokes": 20
+    },
+    {
+      "kanji": "鐵",
+      "strokes": 21
+    },
+    {
+      "kanji": "鐡",
+      "strokes": 20
+    },
+    {
+      "kanji": "鐺",
+      "strokes": 21
+    },
+    {
+      "kanji": "鑁",
+      "strokes": 22
+    },
+    {
+      "kanji": "鑒",
+      "strokes": 23
+    },
+    {
+      "kanji": "鑄",
+      "strokes": 22
+    },
+    {
+      "kanji": "鑛",
+      "strokes": 23
+    },
+    {
+      "kanji": "鑠",
+      "strokes": 23
+    },
+    {
+      "kanji": "鑢",
+      "strokes": 23
+    },
+    {
+      "kanji": "鑞",
+      "strokes": 23
+    },
+    {
+      "kanji": "鑪",
+      "strokes": 24
+    },
+    {
+      "kanji": "鈩",
+      "strokes": 12
+    },
+    {
+      "kanji": "鑰",
+      "strokes": 25
+    },
+    {
+      "kanji": "鑵",
+      "strokes": 25
+    },
+    {
+      "kanji": "鑷",
+      "strokes": 26
+    },
+    {
+      "kanji": "鑽",
+      "strokes": 27
+    },
+    {
+      "kanji": "鑚",
+      "strokes": 23
+    },
+    {
+      "kanji": "鑼",
+      "strokes": 27
+    },
+    {
+      "kanji": "鑾",
+      "strokes": 27
+    },
+    {
+      "kanji": "钁",
+      "strokes": 28
+    },
+    {
+      "kanji": "鑿",
+      "strokes": 28
+    },
+    {
+      "kanji": "閇",
+      "strokes": 11
+    },
+    {
+      "kanji": "閊",
+      "strokes": 11
+    },
+    {
+      "kanji": "閔",
+      "strokes": 12
+    },
+    {
+      "kanji": "閖",
+      "strokes": 12
+    },
+    {
+      "kanji": "閘",
+      "strokes": 13
+    },
+    {
+      "kanji": "閙",
+      "strokes": 13
+    },
+    {
+      "kanji": "閠",
+      "strokes": 13
+    },
+    {
+      "kanji": "閨",
+      "strokes": 14
+    },
+    {
+      "kanji": "閧",
+      "strokes": 14
+    },
+    {
+      "kanji": "閭",
+      "strokes": 15
+    },
+    {
+      "kanji": "閼",
+      "strokes": 16
+    },
+    {
+      "kanji": "閻",
+      "strokes": 16
+    },
+    {
+      "kanji": "閹",
+      "strokes": 16
+    },
+    {
+      "kanji": "閾",
+      "strokes": 16
+    },
+    {
+      "kanji": "闊",
+      "strokes": 17
+    },
+    {
+      "kanji": "濶",
+      "strokes": 17
+    },
+    {
+      "kanji": "闃",
+      "strokes": 17
+    },
+    {
+      "kanji": "闍",
+      "strokes": 17
+    },
+    {
+      "kanji": "闌",
+      "strokes": 17
+    },
+    {
+      "kanji": "闕",
+      "strokes": 18
+    },
+    {
+      "kanji": "闔",
+      "strokes": 18
+    },
+    {
+      "kanji": "闖",
+      "strokes": 18
+    },
+    {
+      "kanji": "關",
+      "strokes": 19
+    },
+    {
+      "kanji": "闡",
+      "strokes": 20
+    },
+    {
+      "kanji": "闥",
+      "strokes": 21
+    },
+    {
+      "kanji": "闢",
+      "strokes": 21
+    },
+    {
+      "kanji": "陷",
+      "strokes": 11
+    },
+    {
+      "kanji": "陜",
+      "strokes": 10
+    },
+    {
+      "kanji": "陞",
+      "strokes": 10
+    },
+    {
+      "kanji": "陝",
+      "strokes": 10
+    },
+    {
+      "kanji": "陟",
+      "strokes": 11
+    },
+    {
+      "kanji": "陦",
+      "strokes": 10
+    },
+    {
+      "kanji": "陲",
+      "strokes": 11
+    }
+    ]
 }

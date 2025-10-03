@@ -1,6 +1,6 @@
 var CACHE_NAME = 'KNJ';
 var urlsToCache = [
-    '/', '/index.html', './PWAimage/slime192.png', './PWAimage/slime512.png'
+    '/', '/index.html','/kanji.json','./PWAimage/slime192.png', './PWAimage/slime512.png'
 ];
 
 // インストール処理
