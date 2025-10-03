@@ -341,7 +341,7 @@ function handleAnswerResult(isCorrect) {
   // 再度ランダムなタイミングで次を表示
       setTimeout(() => {
     showRandomKanji();
-  }, Math.random() * 15000 + 5000); // 5-20秒後
+  }, Math.random() * 110000 + 10000); // 10-120秒後
 }
 
 // 選択肢のイベントリスナーを設定
@@ -395,7 +395,7 @@ function executePenaltyPattern() {
           
           setTimeout(() => {
             showRandomKanji(); // 次の問題を開始
-          }, Math.random() * 8000 + 5000); // 5-13秒後に次の問題
+          }, Math.random() * 110000 + 10000); // 10-120秒後に次の問題
     } else {
           setTimeout(checkEnd, 1000);
         }
@@ -478,7 +478,7 @@ startButton.addEventListener('click', () => {
   // 初回の漢字ゲームを開始
   setTimeout(() => {
     showRandomKanji();
-  }, Math.random() * 15000 + 5000); // 5-20秒後に漢字を開始
+  }, Math.random() * 110000 + 10000); // 10-120秒後に漢字を開始
 });
 
 // ページロード時の初期化
