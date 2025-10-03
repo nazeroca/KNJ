@@ -1,5 +1,7 @@
 {
-  "name": "KNJ",
+  "name": "KNJ - 漢字画数ゲーム",
+  "short_name": "KNJ",
+  "description": "漢字の画数を当てるゲーム",
   "icons": [
     {
       "src": "./PWAimage/slime192.png",
@@ -12,8 +14,9 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/KNJ/index.html",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#FFFFFF",
-  "theme_color": "#4e342e"
+  "background_color": "#000000",
+  "theme_color": "#00FFFF"
 }

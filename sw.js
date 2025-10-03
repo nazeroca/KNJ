@@ -1,6 +1,17 @@
-var CACHE_NAME = 'KNJ';
+var CACHE_NAME = 'KNJ-v1';
 var urlsToCache = [
-    '/', '/index.html', './PWAimage/slime192.png', './PWAimage/slime512.png'
+    './',
+    './index.html',
+    './styles.css',
+    './main.js',
+    './kanji.json',
+    './PWAimage/slime192.png',
+    './PWAimage/slime512.png',
+    './correct.mp3',
+    './error.mp3',
+    './hit.mp3',
+    './option.mp3',
+    './pro.mp3'
 ];
 
 // インストール処理
@@ -11,6 +22,21 @@ self.addEventListener('install', function(event) {
             .then(function(cache) {
                 return cache.addAll(urlsToCache);
             })
+    );
+});
+
+// アクティベート処理
+self.addEventListener('activate', function(event) {
+    event.waitUntil(
+        caches.keys().then(function(cacheNames) {
+            return Promise.all(
+                cacheNames.map(function(cacheName) {
+                    if (cacheName !== CACHE_NAME) {
+                        return caches.delete(cacheName);
+                    }
+                })
+            );
+        })
     );
 });
 
