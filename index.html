@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="manifest" href="manifest.json">
+  <title>KNJ</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+          <!-- 上部ゲームエリア（固定レイアウト） -->
+          <div class="game-area" id="upper-game-area">
+            <!-- スタートボタン -->
+            <div class="start-screen" id="start-screen">
+              <h1 class="game-title">漢字画数ゲーム</h1>
+              <button class="start-button" id="start-button">GAME START</button>
+            </div>
+            
+            <!-- 漢字表示エリア（角丸正方形） -->
+            <div class="kanji-square" id="kanji-square">
+              <div class="kanji-character"></div>
+            </div>
+            
+            <!-- ボタンエリア（横長） -->
+            <div class="button-area" id="button-area">
+              <div class="choices-container">
+                <button class="choice-button" data-value="1">1</button>
+                <button class="choice-button" data-value="2">2</button>
+                <button class="choice-button" data-value="3">3</button>
+              </div>
+            </div>
+          </div>
+
+  <!-- ノーツレーン（下部20%） -->
+  <div class="notes-lane" id="game-area">
+    <div class="judgeline"></div>
+  </div>
+
+  <audio id="hit" src="hit.mp3" preload="auto"></audio>
+  <audio id="pro" src="pro.mp3" preload="auto"></audio>
+  <audio id="correct" src="correct.mp3" preload="auto"></audio>
+  <audio id="error" src="error.mp3" preload="auto"></audio>
+  <audio id="option" src="option.mp3" preload="auto"></audio>
+
+  <script src="main.js"></script>
+
+   <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('/SSD/sw.js').then(function (registration) {
+          console.log('ServiceWorker registration successful with scope: ', registration.scope);
+        }, function (err) {
+          console.log('ServiceWorker registration failed: ', err);
+        });
+      });
+    }
+  </script>
+</body>
+</html>

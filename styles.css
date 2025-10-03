@@ -1,0 +1,353 @@
+/* 基本HTMLおよびボディスタイル */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #000;
+  color: #00FFFF;
+  font-family: 'JetBrains Mono', 'Courier New', monospace;
+  user-select: none;
+  overflow: hidden;
+}
+
+/* 上部スペース（漢字ゲーム用） */
+.game-area {
+  width: 100vw;
+  height: 80vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* スタート画面 */
+.start-screen {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+}
+
+.game-title {
+  font-size: 6vh;
+  font-weight: bold;
+  color: #00FFFF;
+  text-shadow: 
+    0 0 3vh rgba(0, 255, 255, 0.8),
+    0 0 6vh rgba(0, 255, 255, 0.6),
+    0 0 9vh rgba(0, 255, 255, 0.4);
+  margin-bottom: 8vh;
+  font-family: 'Hiragino Mincho ProN', 'Yu Mincho', 'MS Mincho', serif;
+}
+
+.start-button {
+  padding: 3vh 8vw;
+  font-size: 4vh;
+  font-weight: bold;
+  color: #000;
+  background: linear-gradient(135deg, #00FFFF 0%, #0088FF 50%, #004488 100%);
+  border: 0.5vh solid #00FFFF;
+  border-radius: 2vh;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 
+    0 0 3vh rgba(0, 255, 255, 0.6),
+    inset 0 0 1vh rgba(255, 255, 255, 0.2);
+  text-transform: uppercase;
+  letter-spacing: 0.5vh;
+}
+
+.start-button:hover {
+  background: linear-gradient(135deg, #00DDDD 0%, #0066CC 50%, #003377 100%);
+  box-shadow: 
+    0 0 5vh rgba(0, 255, 255, 0.8),
+    inset 0 0 2vh rgba(255, 255, 255, 0.3);
+    transform: scale(1.05);
+  }
+
+.start-button:active {
+  background: linear-gradient(135deg, #00BBBB 0%, #0055AA 50%, #002266 100%);
+  transform: scale(0.95);
+}
+
+/* 漢字表示エリア（巨大角丸正方形） */
+.kanji-square {
+  position: absolute;
+  top: 5vh;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 90vw;
+  height: 90vw;
+  border: 12px solid #00FFFF;
+  border-radius: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 
+    0 0 20vw rgba(0, 255, 255, 0.6),
+    inset 0 0 15vw rgba(0, 255, 255, 0.1);
+  transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  overflow: hidden;
+}
+
+/* 背景レイヤー1 */
+.kanji-square::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg, #220011 0%, #660022 50%, #440011 100%);
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out;
+  z-index: -1;
+}
+
+/* 背景レイヤー2 */
+.kanji-square::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg, #001133 0%, #002244 50%, #001133 100%);
+  opacity: 1;
+  transition: opacity 0.2s ease-in-out;
+  z-index: -1;
+}
+
+/* 高難易度モード */
+.kanji-square.hard-mode {
+  border-color: #FF4444;
+  box-shadow: 
+    0 0 20vw rgba(255, 68, 68, 0.6),
+    inset 0 0 15vw rgba(255, 68, 68, 0.1);
+}
+
+.kanji-square.hard-mode::before {
+  opacity: 1;
+}
+
+.kanji-square.hard-mode::after {
+  opacity: 0;
+}
+
+.kanji-character {
+  font-size: 50vw;
+  font-weight: bold;
+  color: #00FFFF;
+    text-shadow: 
+    0 0 10vw rgba(0, 255, 255, 0.8),
+    0 0 20vw rgba(0, 255, 255, 0.6),
+    0 0 30vw rgba(0, 255, 255, 0.4);
+  font-family: 'Hiragino Mincho ProN', 'Yu Mincho', 'MS Mincho', serif;
+  animation: kanji-glow 1s ease-in-out infinite alternate;
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+/* カウントダウン時の色変更 */
+.kanji-character.countdown {
+  color: #00FFFF;
+    text-shadow: 
+    0 0 10vw rgba(0, 255, 255, 0.8),
+    0 0 20vw rgba(0, 255, 255, 0.6),
+    0 0 30vw rgba(0, 255, 255, 0.4);
+}
+
+
+/* ボタンエリア（横長） - 角丸正方形下辺とノーツレーンの間 */
+.button-area {
+  position: absolute;
+  top: calc(5vh + 90vw + 4vh);
+  left: 50%;
+  transform: translateX(-50%);
+  display: none; /* デフォルト非表示 */
+  width: 80vw;
+  height: calc(100vh - 5vh - 90vw - 8vh);
+  max-height: calc(80vh - 5vh - 90vw - 8vh);
+  z-index: 5;
+}
+
+@keyframes kanji-glow {
+  0% {
+    text-shadow: 
+      0 0 10vh rgba(0, 255, 255, 0.8),
+      0 0 20vh rgba(0, 255, 255, 0.6),
+      0 0 30vh rgba(0, 255, 255, 0.4);
+  }
+  100% {
+    text-shadow: 
+      0 0 15vh rgba(0, 255, 255, 1),
+      0 0 30vh rgba(0, 255, 255, 0.8),
+      0 0 45vh rgba(0, 255, 255, 0.6);
+  }
+}
+
+/* 選択肢ボタン（修正版） */
+
+.choices-container {
+  display: flex;
+  gap: 1vh;
+  width: 100%;
+  height: 100%;
+}
+
+.choice-button {
+  flex: 1;
+  height: 100%;
+  font-size: 8vh;
+  font-weight: bold;
+  background: linear-gradient(135deg, #001122 0%, #002244 50%, #001122 100%);
+  border: 4px solid #00FFFF;
+  border-radius: 12px;
+  color: #00FFFF;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-shadow: 0 0 0.5vh rgba(0, 255, 255, 0.8);
+  box-shadow: 
+    0 0 1vh rgba(0, 255, 255, 0.3),
+    inset 0 0 0.5vh rgba(0, 255, 255, 0.1);
+}
+
+.choice-button:hover {
+  background: linear-gradient(135deg, #002244 0%, #003366 50%, #002244 100%);
+  box-shadow: 
+    0 0.5vh rgba(0, 255, 255, 0.6),
+    inset 0 0 0.8vh rgba(0, 255, 255, 0.2);
+  transform: scale(1.02);
+}
+
+.choice-button:active {
+  background: linear-gradient(135deg, #000011 0%, #001122 50%, #000011 100%);
+  transform: scale(0.95);
+}
+
+/* ノーツレーン（画面下部20%） */
+.notes-lane {
+  width: 100vw;
+  height: 20vh;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  background: linear-gradient(
+    45deg, 
+    #000 0%, 
+    #001133 30%,
+    rgba(0, 255, 255, 0.1) 50%, 
+    #001133 70%,
+    #000 100%
+  );
+}
+
+/* 判定ライン */
+.judgeline {
+  position: absolute;
+  width: 4px;
+  height: 100%;
+  background: linear-gradient(
+    180deg,
+    transparent 0%,
+    #00FFFF 20%,
+    #FFFFFF 50%,
+    #00FFFF 80%,
+    transparent 100%
+  );
+  left: 20%;
+  top: 0;
+  box-shadow: 
+    0 0 20px rgba(0, 255, 255, 0.4),
+    0 0 40px rgba(0, 255, 255, 0.2);
+  transition: box-shadow 0.2s ease;
+}
+
+/* ヒット時の判定ライン光効果 */
+.judgeline.hit {
+  animation: hit-glow 0.5s ease-out forwards;
+}
+
+@keyframes hit-glow {
+  0% {
+    box-shadow: 
+      0 0 20px rgba(0, 255, 255, 0.4),
+      0 0 40px rgba(0, 255, 255, 0.2);
+  }
+  30% {
+    box-shadow: 
+      0 0 80px rgba(0, 255, 255, 0.9),
+      0 0 160px rgba(0, 255, 255, 0.5),
+      0 0 240px rgba(0, 255, 255, 0.2);
+  }
+  100% {
+    box-shadow: 
+      0 0 20px rgba(0, 255, 255, 0.4),
+      0 0 40px rgba(0, 255, 255, 0.2);
+  }
+}
+
+/* 円のノーツ */
+.circle {
+  position: absolute;
+  top: 50%;
+  left: 100%;
+  transform: translateY(-50%);
+  width: 10vh;
+  height: 10vh;
+  background: radial-gradient(circle, #00FFFF 0%, #0088FF  50%, #004488 100%);
+  border-radius: 50%;
+  border: 3px solid #00FFFF;
+  box-shadow: 
+    0 0 60px rgba(0, 255, 255, 0.6),
+    inset 0 0 30px rgba(255, 255, 255, 0.2);
+  will-change: transform;
+  animation: pulse 1s ease-in-out infinite alternate;
+}
+
+@keyframes pulse {
+  0% {
+    transform: translateY(-50%) scale(0.9);
+    box-shadow: 
+      0 0 60px rgba(0, 255, 255, 0.6),
+      inset 0 0 30px rgba(255, 255, 255, 0.2);
+  }
+  100% {
+    transform: translateY(-50%) scale(1.1);
+    box-shadow: 
+      0 0 90px rgba(0, 255, 255, 0.8),
+      inset 0 0 30px rgba(255, 255, 255, 0.3);
+  }
+}
+
+/* レスポンシブ対応 */
+@media (max-width: 768px) {
+  .circle {
+    width: 16vw;
+    height: 16vw;
+  }
+  
+  .game-area {
+    height: 80vh; /* モバイルでも同じ比率を維持 */
+  }
+  
+  .notes-lane {
+    height: 20vh; /* モバイルでも同じ比率を維持 */
+  }
+}
+
+@media (max-height: 600px) {
+  .circle {
+    width: 12vw;
+    height: 12vw;
+  }
+}
