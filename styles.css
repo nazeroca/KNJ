@@ -221,6 +221,11 @@ html, body {
   transform: scale(0.95);
 }
 
+/* 3桁の数字用のスタイル */
+.choice-button.three-digit {
+  font-size: 6vh; /* 8vhから6vhに縮小 */
+}
+
 /* ノーツレーン（画面下部20%） */
 .notes-lane {
   width: 100vw;

@@ -116,15 +116,21 @@ class MathQuiz {
           const star = document.createElement('div');
           star.className = 'math-star';
           star.style.position = 'absolute';
-          star.style.left = (currentX + colWidths[col] / 2 - 30) + 'px'; // 30pxは星の半径
-          star.style.top = (currentY + rowHeights[row] / 2 - 30) + 'px';
-          star.style.width = '60px';
-          star.style.height = '60px';
-          star.style.fontSize = '60px';
+          
+          // 星のサイズをvw/vhで計算（画面サイズに応じて調整）
+          const starSizeVw = Math.min(8, 90 / Math.max(this.rows, this.cols)); // 最大8vw、最小はグリッドサイズに応じて調整
+          const starSizeVh = Math.min(8, 90 / Math.max(this.rows, this.cols)); // 最大8vh、最小はグリッドサイズに応じて調整
+          const starSize = Math.min(starSizeVw, starSizeVh); // より小さい方を採用
+          
+          star.style.left = (currentX + colWidths[col] / 2 - starSize / 2) + 'px';
+          star.style.top = (currentY + rowHeights[row] / 2 - starSize / 2) + 'px';
+          star.style.width = starSize + 'vw';
+          star.style.height = starSize + 'vw';
+          star.style.fontSize = starSize + 'vw';
           star.style.color = '#FFD700';
           star.style.textAlign = 'center';
-          star.style.lineHeight = '60px';
-          star.style.textShadow = '0 0 25px rgba(255, 215, 0, 0.9), 0 6px 12px rgba(0, 0, 0, 0.4)';
+          star.style.lineHeight = starSize + 'vw';
+          star.style.textShadow = `0 0 ${starSize * 0.4}vw rgba(255, 215, 0, 0.9), 0 ${starSize * 0.1}vw ${starSize * 0.2}vw rgba(0, 0, 0, 0.4)`;
           star.textContent = '★';
           
           quizSquare.appendChild(star);
@@ -139,7 +145,7 @@ class MathQuiz {
     // 2秒後に★をクリア
     setTimeout(() => {
       this.clearStars();
-    }, 2000);
+    }, 3000);
   }
   
   // ランダムな削除位置を生成
@@ -215,6 +221,9 @@ class MathQuiz {
     const choices = [correctAnswer]; // 正解を必ず含める
     const usedAnswers = new Set([correctAnswer]);
     
+    // 3桁の数字があるかチェック
+    const hasThreeDigits = choices.some(choice => choice >= 100);
+    
     if (this.isHardModeActive) {
       // ハードモード: 正解から誤差20%の範囲でランダム
       const errorRange = Math.floor(correctAnswer * 0.2); // 20%の誤差
@@ -282,6 +291,19 @@ class MathQuiz {
     
     // 選択肢をシャッフル
     finalChoices.sort(() => Math.random() - 0.5);
+    
+    // 3桁の数字があるか最終チェック
+    const hasThreeDigits = finalChoices.some(choice => choice >= 100);
+    
+    // 3桁の数字がある場合、CSSクラスを追加
+    if (hasThreeDigits) {
+      setTimeout(() => {
+        const choiceButtons = document.querySelectorAll('.choice-button');
+        choiceButtons.forEach(button => {
+          button.classList.add('three-digit');
+        });
+      }, 100);
+    }
     
     console.log('選択肢:', finalChoices);
     console.log('正解:', correctAnswer, this.isHardModeActive ? '(ハードモード)' : '(' + this.rows + '×' + this.cols + ')');
